@@ -1,0 +1,420 @@
+{
+  "updateTime": "2025-06-14T07:07:14Z",
+  "newsTime": "morning",
+  "categories": {
+    "Deutschland": [
+      {
+        "title": "Prozess gegen „Compact“: „Ich bin kein Rechter“",
+        "link": "https://www.faz.net/aktuell/politik/inland/prozess-gegen-compact-ich-bin-kein-rechter-110535200.html",
+        "summary": "⚠️ Insufficient content for summarization.",
+        "source": "Faz",
+        "quality_score": 1
+      },
+      {
+        "title": "Ionos und T-Systems: Deutsche Cloudanbieter widersprechen SAP-Chef",
+        "link": "https://www.golem.de/news/ionos-und-t-systems-deutsche-cloudanbieter-widersprechen-sap-chef-2506-197125.html",
+        "summary": "SAP-Chef Klein hält den Wettbewerb mit US-Cloud-Giganten für unrealistisch, während Ionos, T-Systems und die Schwarz-Gruppe diese Einschätzung widersprechen und offenbar an eigenen Cloud-Strategien festhalten.",
+        "source": "Golem",
+        "quality_score": 2
+      },
+      {
+        "title": "Tesla unterschreibt Wasservertrag zu Recycling in Grünheide",
+        "link": "https://www.heise.de/news/Tesla-unterschreibt-Wasservertrag-zu-Recycling-in-Gruenheide-10446628.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Tesla und der regionale Wasserversorger haben sich auf einen neuen Vertrag geeinigt, der Tesla bei Einsparungen von Wasser höhere Grenzwerte für den Abwasser-Austrag im Werk Grünheide erlaubt.",
+        "source": "Heise",
+        "quality_score": 2
+      },
+      {
+        "title": "Mavi Phoenix: „Ich muss nicht Männlichkeitsklischees erfüllen“",
+        "link": "https://www.faz.net/aktuell/feuilleton/debatten/mavi-phoenix-ich-muss-nicht-maennlichkeitsklischees-erfuellen-110516773.html",
+        "summary": "⚠️ Insufficient content for summarization.",
+        "source": "Faz",
+        "quality_score": 1
+      },
+      {
+        "title": "Merz: Deutscher Führungsanspruch bei künstlicher Intelligenz",
+        "link": "https://www.golem.de/news/merz-deutscher-fuehrungsanspruch-bei-kuenstlicher-intelligenz-2506-197128.html",
+        "summary": "Eine Studie widerlegt Friedrich Merzs Anspruch auf deutsche KI-Führungsrolle, während gleichzeitig der zunehmende Rechenzentrumsausbau die Umweltbelastung verstärkt.",
+        "source": "Golem",
+        "quality_score": 2
+      },
+      {
+        "title": "Online-Dienst \"Mein Justizpostfach\": Offenbar massive Datenschutzlücken",
+        "link": "https://www.heise.de/news/E-Rechtsverkehr-Loechriger-Datenschutz-beim-Online-Dienst-Mein-Justizpostfach-10446656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Der Online-Dienst \"Mein Justizpostfach\", gedacht zur vereinfachten digitalen Kommunikation mit der Justiz, weist offenbar massive Datenschutzlücken auf, da persönliche Nutzerdaten für viele Personen zugänglich sind.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Germany's New Chancellor: Merz's Spontaneity Could Get Him in Trouble on the International Stage",
+        "link": "https://www.spiegel.de/international/germany/germanys-new-chancellor-merzs-spontaneity-could-get-him-in-trouble-on-the-international-stage-a-d0ab7984-e878-4f91-abca-61cc0e7bfa8a#ref=rss",
+        "summary": "Bundeskanzler Merz priorisiert zwar die Außenpolitik, seine spontanen Äußerungen könnten ihm jedoch auf internationaler Bühne zum Verhängnis werden, da er deren Auswirkungen offenbar nicht immer ausreichend bedenkt.  Dies bereitet Sorgen.",
+        "source": "Spiegel",
+        "quality_score": 1
+      }
+    ],
+    "Global&Europa": [
+      {
+        "title": "Israel und Iran greifen sich weiter an",
+        "link": "https://www.tagesschau.de/ausland/asien/neue-angriffe-israel-iran-100.html",
+        "summary": "Israel und der Iran befinden sich in einer Eskalation von gegenseitigen Angriffen; Israels Verteidigungsminister warnte den Iran vor Angriffen auf Zivilisten, während Israel angeblich einen Flughafen in Teheran beschossen hat.",
+        "source": "Tagesschau",
+        "quality_score": 2
+      },
+      {
+        "title": "‘Drop Israel’: How military escalation with Iran divides Trump’s base",
+        "link": "https://www.aljazeera.com/news/2025/6/14/drop-israel-how-military-escalation-with-iran-divides-trumps?traffic_source=rss",
+        "summary": "Die militärische Eskalation zwischen Israel und dem Iran spaltet Trumps Basis, wobei einige rechte Trump-Unterstützer israelische Angriffe kritisieren und vor einem US-Krieg mit dem Iran warnen.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Prognosen über das Klima: Die Angst vor dem Hochsommer",
+        "link": "https://www.faz.net/aktuell/wissen/die-angst-vor-dem-hochsommer-110535347.html",
+        "summary": "⚠️ Insufficient content for summarization.",
+        "source": "Faz",
+        "quality_score": 1
+      },
+      {
+        "title": "Merz beim G7-Gipfel: Der Test nach der Oval-Office-Ouvertüre",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/g7-gipfel-merz-100.html",
+        "summary": "Friedrich Merz steht beim G7-Gipfel in Kanada vor seiner nächsten Bewährungsprobe, wo er unter anderem erstmals auf die Staats- und Regierungschefs wichtiger Schwellenländer trifft.  Ein zentrales Thema bleibt jedoch der Umgang mit Donald Trump.",
+        "source": "Tagesschau",
+        "quality_score": 4
+      },
+      {
+        "title": "Grieving Relatives of India Air Crash Victims Wait for Bodies to Be Identified",
+        "link": "https://www.nytimes.com/2025/06/13/world/asia/india-air-crash-victims.html",
+        "summary": "Angehörige der Opfer des Flugzeugabsturzes in Indien warten stundenlang, um DNA-Proben abzugeben, damit die Behörden die Leichen identifizieren und den Familien zuordnen können; mindestens 269 Menschen kamen bei dem Unglück ums Leben.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Tesla faces protests in Austin over Musk's robotaxi plans",
+        "link": "https://www.cnbc.com/2025/06/13/tesla-faces-protests-in-austin-over-musks-robotaxi-plans-.html",
+        "summary": "Tesla plant in Austin wegen geplanter Robotaxi-Tests Proteste entgegen.  Bürger äußern Bedenken angesichts der bevorstehenden ersten Testfahrten Ende des Monats.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Oil jumps more than 7% on supply risk from Israel-Iran conflict",
+        "link": "https://www.cnbc.com/2025/06/12/oil-prices-surge-after-israel-launches-airstrikes-against-iran.html",
+        "summary": "Die Ölpreise stiegen am Freitag um über 7%, nachdem Israel ohne US-Unterstützung Luftschläge gegen den Iran durchgeführt hatte und dadurch die Ölversorgung gefährdet ist.  Die Unsicherheit über die Auswirkungen des Konflikts auf die Ölproduktion führte zu einem Preissprung von über 5 Dollar pro Barrel.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Iran is reeling from Israel's unprecedented attack - and it is only the start",
+        "link": "https://www.bbc.com/news/articles/cvg72ny4xeyo",
+        "summary": "Israel hat mit der Operation \"Rising Lion\" einen beispiellosen Angriff auf den Iran gestartet, der laut Frank Gardner erst der Anfang einer umfangreichen und ambitionierten Militäroperation ist, die Iran stark trifft.",
+        "source": "Feeds",
+        "quality_score": 1
+      },
+      {
+        "title": "Trump approves U.S. Steel merger with Japan’s Nippon after companies sign national security agreement",
+        "link": "https://www.cnbc.com/2025/06/13/trump-us-steel-nippon-deal.html",
+        "summary": "US-Präsident Trump hat die Fusion von US Steel und Nippon Steel genehmigt, nachdem beide Unternehmen eine Vereinbarung zur nationalen Sicherheit mit der US-Regierung unterzeichnet hatten.  Die Fusion war zuvor von der Regierung geprüft worden.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "'I walked out of rubble': Survivor on how he escaped Air India wreckage",
+        "link": "https://www.bbc.com/news/articles/cd901xn4001o",
+        "summary": "Ein Überlebender des Air India-Absturzes berichtete, er habe sich aus den Trümmern befreien können, nachdem er mit eigenen Augen das Ableben von Besatzungsmitgliedern und Passagieren miterlebt hatte.",
+        "source": "Feeds",
+        "quality_score": 1
+      },
+      {
+        "title": "40 Jahre Schengen: Katerstimmung statt Korkenknallen?",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/vierzig-jahre-schengen-abkommen-100.html",
+        "summary": "Zum 40. Jahrestag des Schengener Abkommens überwiegen angesichts neuer Grenzkontrollen eher Ernüchterung und Zweifel als Jubel, besonders in den Grenzregionen.  Die Feierlichkeiten werden von der aktuellen Situation überschattet.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "What to Know About Israel’s Strikes and Iran’s Retaliation",
+        "link": "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html",
+        "summary": "Israel führte am Freitagmorgen Angriffe auf den Iran durch und tötete mehrere hochrangige Militärführer und Wissenschaftler.  Der Iran reagierte darauf mit Raketen- und Drohnenangriffen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Black box found at Air India crash site as families wait for answers",
+        "link": "https://www.bbc.com/news/articles/cjwqjv09q7xo",
+        "summary": "Am Absturzort von Air India wurde die Blackbox gefunden, während Angehörige auf Antworten warten.  Die Identifizierung der Opfer gestaltet sich aufgrund der notwendigen DNA-Analyse von Verwandten schwierig und zeitaufwendig.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Interview with Danish Prime Minister Frederiksen: \"If Trump Wants a Trade War, We Will Respond\"",
+        "link": "https://www.spiegel.de/international/europe/interview-with-danish-prime-minister-frederiksen-if-trump-wants-a-trade-war-we-will-respond-a-52b61828-fe28-4c8f-b7fd-0959330dec0a#ref=rss",
+        "summary": "Dänemarks Ministerpräsidentin Mette Frederiksen droht im Interview mit einem Handelskrieg gegen Trump, sollte dieser einen beginnen, und setzt gleichzeitig auf die Zusammenarbeit mit dem neuen deutschen Kanzler Merz zum Schutz Grönlands und Europas.",
+        "source": "Spiegel",
+        "quality_score": 1
+      },
+      {
+        "title": "Trump’s FTC may impose merger condition that forbids advertising boycotts",
+        "link": "https://arstechnica.com/tech-policy/2025/06/trumps-ftc-targets-advertising-boycotts-in-potential-boost-for-elon-musks-x/",
+        "summary": "Berichten zufolge könnte die von Trump eingesetzte Federal Trade Commission (FTC) bei einer geplanten Firmenfusion eine Bedingung einführen, die politische Werbeboykotte verbietet.  Dies würde Fusionen an die Bedingung knüpfen, dass keine politischen Boykotte durchgeführt werden dürfen.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Trump versus the Universities: \"America Cannot Afford for Harvard to Fall\"",
+        "link": "https://www.spiegel.de/international/world/trump-versus-the-universities-america-cannot-afford-for-harvard-to-fall-a-dc30bb06-5d22-4d32-9744-6f3367dd4369#ref=rss",
+        "summary": "US-Präsident Trump greift amerikanische Universitäten, allen voran Harvard, massiv an.  Harvard wehrt sich gegen Trumps Offensive,  unter anderem bezüglich der Zukunft ausländischer Studierender.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "Israel-Iran conflict enters second night with millions on high alert",
+        "link": "https://www.cnbc.com/2025/06/13/trump-urges-iran-to-reach-nuclear-deal-before-there-is-nothing-left-.html",
+        "summary": "Der Konflikt zwischen Israel und Iran geht in die zweite Nacht, Millionen Menschen sind in höchster Alarmbereitschaft.  Donald Trump forderte den Iran auf, einen Deal zu schließen, bevor es zu spät sei.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Oil surges at fastest pace in three years",
+        "link": "https://www.telegraph.co.uk/business/2025/06/13/oil-gold-price-ftse-100-markets-latest-news-israel-iran/?.tsrc=rss",
+        "summary": "Die Ölpreise stiegen am Freitag am stärksten seit drei Jahren, nachdem Israels Angriff auf den Iran Ängste vor einer weltweiten Verknappung des Angebots auslöste.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "There’s another leak on the ISS, but NASA is not saying much about it",
+        "link": "https://arstechnica.com/space/2025/06/theres-another-leak-on-the-iss-but-nasa-is-not-saying-much-about-it/",
+        "summary": "Ein weiteres Leck wurde auf der ISS entdeckt, wobei die NASA nur spärliche Informationen preisgibt;  der Start einer Crew-Mission wurde daher auf mindestens kommenden Mittwoch verschoben.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Judge rules Mahmoud Khalil can remain in custody amid green card dispute",
+        "link": "https://www.aljazeera.com/news/2025/6/13/judge-rules-mahmoud-khalil-can-remain-in-custody-amid-green-card-dispute?traffic_source=rss",
+        "summary": "Ein Richter entschied, dass Mahmoud Khalil, ein Student der Columbia University, trotz eines Streits um seine Green Card in Haft bleiben muss, da die Trump-Administration ihm die Nichtangabe früherer Verbindungen vorwirft.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "UN officials urge Israel, Iran to show ‘restraint’ at emergency meeting",
+        "link": "https://www.aljazeera.com/news/2025/6/13/un-officials-urge-israel-iran-to-show-restraint-at-emergency-meeting?traffic_source=rss",
+        "summary": "Bei einer Dringlichkeitssitzung des UN-Sicherheitsrates forderten UN-Beamte Israel und Iran nach einem israelischen Angriff auf iranische Ziele zu Zurückhaltung auf, während Irans UN-Botschafter den Angriff als Kriegserklärung bezeichnete und eine „entschlossene“ Antwort ankündigte.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "Republicans Are Divided Over Iran. Will Trump Pick a Side?",
+        "link": "https://www.nytimes.com/2025/06/13/us/politics/trump-republicans-iran-israel.html",
+        "summary": "US-Präsident Trump steht zwischen isolationistischen Republikanern und Parteimitgliedern, die Israels Angriffe auf den Iran befürworten, und muss sich nun positionieren.  Seine Entscheidung wird die interne Spaltung der Republikaner bezüglich der Iran-Politik offenlegen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Mel Brooks is returning for Spaceballs 2",
+        "link": "https://www.theverge.com/news/687056/spaceballs-2-mel-brooks-yogurt-returning-2027",
+        "summary": "Mel Brooks kehrt für \"Spaceballs 2\" zurück!  Amazon MGM Studios plant für 2027 eine Fortsetzung der Kultkomödie,  obwohl konkrete Details noch rar sind.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Friedrich Merz's Visit to Trump Succeeded Because It Didn't Fail",
+        "link": "https://www.spiegel.de/international/germany/the-chancellor-goes-to-washington-friedrich-merzs-visit-to-trump-succeeded-because-it-didnt-fail-a-3c55adc4-2549-48c6-8285-9263b16057d5#ref=rss",
+        "summary": "Friedrich Merz' Besuch bei Donald Trump im Oval Office gilt als Erfolg, obwohl die Erwartungen gering waren.  Zukünftige Herausforderungen für die transatlantischen Beziehungen bleiben jedoch bestehen.",
+        "source": "Spiegel",
+        "quality_score": 1
+      },
+      {
+        "title": "Hiding in the fields - farm workers fearing deportation stay in California's shadows",
+        "link": "https://www.bbc.com/news/articles/c989zrggn14o",
+        "summary": "Angesichts von Razzien gegen illegale Farmworker verstecken sich viele in Kaliforniens Feldern aus Angst vor Deportation, was die Landwirtschaft erheblich beeinträchtigt.",
+        "source": "Feeds",
+        "quality_score": 1
+      },
+      {
+        "title": "FIFA Club World Cup 2025: Inter Miami vs Al Ahly – preview, teams, start",
+        "link": "https://www.aljazeera.com/sports/2025/6/14/fifa-club-world-cup-2025-inter-miami-vs-al-ahly-preview-teams-start?traffic_source=rss",
+        "summary": "Der neu formatierte FIFA Klub-Weltmeisterschaft 2025 beginnt in Florida mit einem Spiel zwischen Lionel Messis Inter Miami und dem ägyptischen Topklub Al Ahly.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Irans Gegenschlag: Roter Alarm in ganz Israel",
+        "link": "https://www.faz.net/aktuell/politik/ausland/irans-gegenschlag-roter-alarm-in-ganz-israel-110536531.html",
+        "summary": "⚠️ Insufficient content for summarization.",
+        "source": "Faz",
+        "quality_score": 1
+      },
+      {
+        "title": "School killings leave stunned Austria and France searching for answers",
+        "link": "https://www.bbc.com/news/articles/c4g7152x2k2o",
+        "summary": "Nach tödlichen Schüssen an Schulen in Österreich und Frankreich suchen beide Länder nach Antworten und sind geschockt; Eltern und Regierungen sind ratlos, wie sie Schulen vor willkürlicher Gewalt schützen können.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Firing at the Desperate: Palestinians Killed as They Gather to Receive Relief Supplies",
+        "link": "https://www.spiegel.de/international/world/firing-at-the-desperate-palestinians-killed-as-they-gather-to-receive-relief-supplies-a-2da80b69-cdb1-4c38-9c0c-decc59d90434#ref=rss",
+        "summary": "Bei der Verteilung von Hilfsgütern in Gaza wurden Anfang des Monats über 60 Palästinenser getötet und Hunderte verletzt, als sie sich an den Verteilungsstellen versammelten; Augenzeugen erheben schwere Vorwürfe gegen das israelische Militär.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "FIFA Club World Cup 2025: Full squad list of all teams and players",
+        "link": "https://www.aljazeera.com/sports/2025/6/13/fifa-club-world-cup-2025-full-squad-list-of-all-teams-and-players?traffic_source=rss",
+        "summary": "Die vollständige Spielerliste aller 32 teilnehmenden Mannschaften für die FIFA Klub-Weltmeisterschaft 2025 in den USA wurde veröffentlicht.  Die Kader stehen nun fest.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "A Miscalculation by Iran Led to Israeli Strikes’ Extensive Toll, Officials Say",
+        "link": "https://www.nytimes.com/2025/06/13/world/middleeast/iran-israel-strikes-nuclear-talks.html",
+        "summary": "Israelische Angriffe auf iranische Einrichtungen haben laut Aussagen iranischer Regierungsbeamter einen hohen Tribut gefordert, da der Iran einen israelischen Angriff vor weiteren Gesprächen nicht erwartet hatte.  Die israelischen Schläge trafen den Iran daher offenbar unvorbereitet.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Prozess gegen Sean Combs: Er ist kein Verbrecher, er schlägt nur Frauen",
+        "link": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/prozess-gegen-p-diddy-ein-verheerendes-signal-an-missbrauchsopfer-110534622.html",
+        "summary": "Sean Combs wird vor Gericht wegen Körperverletzung angeklagt.  Eine Zeugin, die anonym aussagt, beschuldigt ihn, Frauen geschlagen zu haben, wobei Combs seine Unschuld beteuert.",
+        "source": "Faz",
+        "quality_score": 2
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Anne Wojcicki is taking back control of 23andMe",
+        "link": "https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition",
+        "summary": "Anne Wojcicki, Mitgründerin von 23andMe, übernimmt das Unternehmen nach dessen Insolvenzantragstellung zurück, indem ihre Non-Profit-Organisation TTAM Research Institute 23andMe kauft.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Onlinebank : DKB kündigt Kooperation mit ChatGPT-Entwickler OpenAI an",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-dkb-kuendigt-kooperation-mit-chatgpt-entwickler-openai-an/100126250.html",
+        "summary": "Die DKB, eine Onlinebank, kooperiert künftig mit OpenAI, dem Entwickler von ChatGPT, um mittels Künstlicher Intelligenz einen neuen Sprachassistenten für ihre Kunden zu entwickeln und KI stärker im Bankgeschäft zu verankern.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "The best budget smartphone you can buy",
+        "link": "https://www.theverge.com/21420196/best-budget-smartphone-cheap",
+        "summary": "Der Artikel empfiehlt ein günstiges Smartphone für Nutzer, die Technik eher als funktionales Werkzeug denn als Luxusgut betrachten und nicht viel Geld investieren möchten.  Es richtet sich an preisbewusste Konsumenten, die Wert auf Funktionalität legen.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Weg von Google Drive, Dropbox & Co.: Online-Services selbst hosten | c’t uplink",
+        "link": "https://www.heise.de/news/Weg-von-Google-Drive-Dropbox-Co-Online-Services-selbst-hosten-c-t-uplink-10443481.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Der c't uplink Artikel beschreibt, wie man statt Google Drive, Dropbox & Co.  eigene Online-Dienste selbst hostet und somit die Abhängigkeit von Tech-Konzernen vermeidet.  Der Artikel erklärt den Weg zur Selbstverwaltung der eigenen Daten.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Inside the firm turning eerie blank streaming ads into useful nonprofit messages",
+        "link": "https://arstechnica.com/gadgets/2025/06/inside-the-firm-turning-eerie-blank-streaming-ads-into-useful-nonprofit-messages/",
+        "summary": "Ein Unternehmen verwandelt ungenutzte Werbeflächen auf Streaming-Plattformen in kostenlose Werbeplätze für gemeinnützige Organisationen, die sich sonst keine teure Werbung leisten könnten.  So erhalten Non-Profits wertvolle Sichtbarkeit.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Top 5: Das beste ferngesteuerte Boot im Test – bis zu 45 km/h mit RC-Speedboot",
+        "link": "https://www.heise.de/bestenlisten/testsieger/top-5-das-beste-ferngesteuerte-boot-im-test/jfmd1f3?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Der Artikel präsentiert die Top 5 der besten ferngesteuerten Boote, darunter schnelle RC-Speedboote mit bis zu 45 km/h, und empfiehlt Modelle für Einsteiger, die einfach zu handhaben sind.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "These VA Tech scientists are building a better fog harp",
+        "link": "https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/",
+        "summary": "Wissenschaftler der Virginia Tech entwickeln eine verbesserte Nebelharfe, indem sie vertikale \"Saiten\" mit periodisch angeordneten horizontalen Drähten kombinieren, was Verstopfungen verhindert, die Effizienz steigert und die Nebelbildung optimiert.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "The best AirPods to buy",
+        "link": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
+        "summary": "Der Artikel befasst sich mit dem Kauf von AirPods und erklärt, warum viele iPhone-Besitzer Apples Kopfhörer anderen bevorzugen, insbesondere aufgrund der nahtlosen Integration und der exklusiven Funktionen.  Er dient als Kaufberatung für neue oder Ersatz-AirPods.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Inside Mark Zuckerberg’s AI hiring spree",
+        "link": "https://www.theverge.com/command-line-newsletter/687173/inside-mark-zuckerbergs-ai-hiring-spree",
+        "summary": "Mark Zuckerberg wirbt persönlich Top-AI-Talente für sein neues \"Superintelligenz\"-Labor bei Meta ab und versucht damit, das Llama-Projekt neu zu beleben, was in der Branche für Aufsehen sorgt.  Seine aggressive Rekrutierungstaktik überrascht viele.",
+        "source": "Theverge",
+        "quality_score": 1
+      }
+    ],
+    "Börse": [
+      {
+        "title": "Bilanzcheck  : Warum Allianz-Chef Bäte 16 Milliarden Gewinn nicht reichen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-darum-reichen-dem-allianz-chef-16-milliarden-gewinn-nicht/100104154.html",
+        "summary": "Die Allianz, Europas größter Versicherer, vermeldete trotz globaler Unsicherheiten einen Gewinn von 16 Milliarden Euro, doch Vorstandschef Bäte zeigte sich nicht vollends zufrieden und deutete weitere Maßnahmen für Anleger an.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Immobilien : Viele Anleger könnten profitieren: Schadenersatzklage gegen Uni Immo Wohnen ZBI",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-uni-immo-wohnen-zbi-wird-auf-schadenersatz-verklagt-01/100126308.html",
+        "summary": "Das Management von Uni Immo Wohnen ZBI wird auf Schadenersatz verklagt, was vielen Anlegern zugutekommen könnte;  ein Musterverfahren steht jedoch noch aus.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Edelmetalle: Ist Platin das neue Gold?",
+        "link": "https://www.tagesschau.de/wirtschaft/boerse/gold-platin-silber-edelmetalle-schmuck-etf-100.html",
+        "summary": "Angesichts hoher Goldpreise gewinnt Platin als günstigere Alternative an Beliebtheit und verzeichnet mit einem Plus von 36 Prozent seit Jahresbeginn starke Kursgewinne.  Es entwickelt sich damit zum heimlichen Star unter den Edelmetallen.",
+        "source": "Tagesschau",
+        "quality_score": 4
+      },
+      {
+        "title": "FTSE and US stocks slip, oil prices spike as Israel targets Iran in major escalation",
+        "link": "https://uk.finance.yahoo.com/news/ftse-100-live-stocks-israel-iran-oil-080133968.html?.tsrc=rss",
+        "summary": "Die Aktienmärkte in FTSE und den USA gaben nach, während die Ölpreise in die Höhe schnellten, nachdem Israel den Iran angegriffen hatte und die Spannungen im Nahen Osten deutlich eskalierten.  Die Frage nach dem weiteren Verlauf der Lage belastet die Märkte.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Middle East Conflict Undercuts European Bourses Midday",
+        "link": "https://finance.yahoo.com/news/middle-east-conflict-undercuts-european-114551281.html?.tsrc=rss",
+        "summary": "Die europäischen Börsenkurse sanken am Freitagmittag, da Teheran offenbar auf israelische Angriffe reagiert hat und der Konflikt im Nahen Osten die Märkte belastet.  Die Eskalation im Nahen Osten sorgt für Unsicherheit an den europäischen Börsen.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Märkte: „Das ist indiskutabel“ – Bafin droht Banken und Brokern nach Börsenchaos mit Konsequenzen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/maerkte-bafin-droht-banken-und-brokern-nach-stoerungen-mit-konsequenzen/100124508.html",
+        "summary": "Die Bafin droht Banken und Brokern nach dem Börsenchaos im April mit Konsequenzen, da viele Privatanleger nicht handeln konnten.  Die Aufsichtsbehörde hinterfragt angesichts der US-amerikanischen Erfahrungen  grundlegende Annahmen des Finanzsystems.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Investmentbanking : Santanders stille Jagd nach Marktanteilen im Investmentbanking",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-santanders-stille-jagd-nach-marktanteilen-im-investmentbanking-1/100103925.html",
+        "summary": "Die spanische Großbank Santander verstärkt ihre Investmentbanking-Aktivitäten in Frankfurt mit Personalaufstockung und zielt dabei insbesondere auf Wachstum in drei noch nicht näher benannten Bereichen.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Stocks slide, oil jumps after Israel strikes Iran",
+        "link": "https://uk.finance.yahoo.com/news/stocks-slide-oil-jumps-israel-163109687.html?.tsrc=rss",
+        "summary": "Nach israelischen Angriffen auf den Iran fielen die Aktienkurse, während der Ölpreis stieg; der FTSE 100 schloss 0,4% tiefer bei 8.850,63 Punkten.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Archer drops about 15% on $850 million share sale following Trump air taxi pilot program",
+        "link": "https://www.cnbc.com/2025/06/13/archer-aviation-drops-15percent-on-850-million-share-sale-.html",
+        "summary": "Die Aktie von Archer Aviation verlor nach dem Verkauf von Aktien im Wert von 850 Millionen US-Dollar rund 15% an Wert, was auf das Programm für Lufttaxis von Trump zurückgeführt wird.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Stocks mixed amid GDP miss and fresh trade worry",
+        "link": "https://uk.finance.yahoo.com/news/stocks-mixed-amid-gdp-miss-164254001.html?.tsrc=rss",
+        "summary": "Die britische Wirtschaft schrumpfte im April stärker als erwartet, da die Dienstleistungen einbrachen, was an den Aktienmärkten für gemischte Reaktionen sorgte.  Neue Handelsängste verstärkten die Unsicherheit.",
+        "source": "Feeds",
+        "quality_score": 0
+      }
+    ]
+  }
+}
