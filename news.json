@@ -1,0 +1,434 @@
+{
+  "updateTime": "2025-06-15T06:08:03Z",
+  "newsTime": "undefined",
+  "categories": {
+    "Deutschland": [
+      {
+        "title": "Tesla: Wasserverbrauch im Teslawerk Grünheide sinkt beträchtlich",
+        "link": "https://www.golem.de/news/tesla-wasserverbrauch-im-teslawerk-gruenheide-sinkt-betraechtlich-2506-197133.html",
+        "summary": "Das Tesla-Werk Grünheide senkt seinen Wasserverbrauch deutlich dank eines neuen Recyclingverfahrens, das zu verbesserten Abwasserwerten führte und die Genehmigung neuer Grenzwerte ermöglichte.",
+        "source": "Golem",
+        "quality_score": 1
+      },
+      {
+        "title": "Friedrich Merz's Visit to Trump Succeeded Because It Didn't Fail",
+        "link": "https://www.spiegel.de/international/germany/the-chancellor-goes-to-washington-friedrich-merzs-visit-to-trump-succeeded-because-it-didnt-fail-a-3c55adc4-2549-48c6-8285-9263b16057d5#ref=rss",
+        "summary": "Friedrich Merz' Besuch bei Donald Trump im Oval Office verlief erfolgreich, wenngleich die Erwartungen niedrig waren;  die Zukunft der transatlantischen Beziehungen bleibt dennoch herausfordernd.",
+        "source": "Spiegel",
+        "quality_score": 1
+      },
+      {
+        "title": "Streit um Familienreservierung: Die Bahn als eierlegende Wollmilchsau",
+        "link": "https://www.faz.net/aktuell/wirtschaft/aus-fuer-familienreservierung-deutsche-bahn-als-eierlegende-wollmilchsau-110535800.html",
+        "summary": "Die Deutsche Bahn steht aufgrund von Kritik an ihrem Familienreservierungssystem unter Druck, welches als unzureichend und unfair empfunden wird und nicht den Bedürfnissen aller Reisenden gerecht wird.  Die Bahn wird als unflexibel und überfordert kritisiert.",
+        "source": "Faz",
+        "quality_score": 1
+      },
+      {
+        "title": "Deutschland will bei KI führen: Nvidia und Telekom beteiligen sich an Gigafabrik",
+        "link": "https://www.heise.de/news/Deutschland-will-bei-KI-fuehren-Nvidia-und-Telekom-beteiligen-sich-an-Gigafabrik-10446867.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Bundeskanzler Merz und Nvidia-CEO Huang einigten sich auf eine gemeinsame Investition in eine deutsche KI-Gigafabrik, an der auch die Telekom beteiligt ist, um Deutschlands Führungsrolle im Bereich Künstlicher Intelligenz zu stärken.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Germany's New Chancellor: Merz's Spontaneity Could Get Him in Trouble on the International Stage",
+        "link": "https://www.spiegel.de/international/germany/germanys-new-chancellor-merzs-spontaneity-could-get-him-in-trouble-on-the-international-stage-a-d0ab7984-e878-4f91-abca-61cc0e7bfa8a#ref=rss",
+        "summary": "Bundeskanzler Friedrich Merz priorisiert zwar die Außenpolitik, seine spontanen Äußerungen könnten jedoch unvorhergesehene internationale Konsequenzen haben und sind daher besorgniserregend.",
+        "source": "Spiegel",
+        "quality_score": 1
+      },
+      {
+        "title": "Neue Ideen für mehr Nachwuchs bei der Bundeswehr",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/wehrpflicht-debatte-veteranentag-100.html",
+        "summary": "Am heutigen ersten Veteranentag werden Bundeswehrsoldaten geehrt, während gleichzeitig die Diskussion um eine Wiedereinführung der Wehrpflicht aufgrund des anhaltenden Nachwuchsmangels neu aufflammt.",
+        "source": "Tagesschau",
+        "quality_score": 2
+      },
+      {
+        "title": "Drohnenattacken: Union fordert bundesweite Drohnenabwehr durch die Bundeswehr",
+        "link": "https://www.golem.de/news/drohnenattacken-union-fordert-bundesweite-drohnenabwehr-durch-die-bundeswehr-2506-197137.html",
+        "summary": "Angesichts zunehmender Drohnenattacken fordert die Union eine bundesweite, von der Bundeswehr durchgeführte Drohnenabwehr und eine damit verbundene Reform der bestehenden Strukturen.",
+        "source": "Golem",
+        "quality_score": 1
+      }
+    ],
+    "Global&Europa": [
+      {
+        "title": "Trump presides over Army parade: Celebration or ‘dictator behaviour’?",
+        "link": "https://www.aljazeera.com/news/2025/6/15/trump-presides-over-army-parade-celebration-or-dictator-behaviour?traffic_source=rss",
+        "summary": "Anlässlich des 250. Jahrestages der US-Armee fand in Washington eine Militärparade statt, die von Präsident Trump geleitet wurde und sowohl Begeisterung als auch Kritik (\"Diktatorverhalten\") hervorrief.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Israel und Iran: Weitere Nacht mit schweren Angriffen",
+        "link": "https://www.tagesschau.de/ausland/asien/angriffe-israel-iran-100.html",
+        "summary": "In einer weiteren Nacht heftiger Kämpfe zwischen Israel und dem Iran kam es zu Explosionen in Teheran und israelischen Luftangriffen, die erneut Opfer forderten.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "Manhunt after two Minnesota state politicians targeted, one of them killed",
+        "link": "https://www.bbc.com/news/articles/cgj83q2e562o",
+        "summary": "Bei einem Angriff in Minnesota wurden zwei Politiker, darunter eine getötete Abgeordnete, und deren Ehepartner Opfer von gezielter politischer Gewalt; ein weiterer Politiker wurde verletzt.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Israels Krieg gegen Iran: h einer tödlichen Nacht kommt es auf jetzt Trump an",
+        "link": "https://www.faz.net/aktuell/politik/ausland/israels-krieg-gegen-iran-jetzt-kommt-es-auf-trump-an-110537436.html",
+        "summary": "Infolge eines israelischen Angriffs auf den Iran steht die Situation auf Messers Schneide;  nunmehr ruht die Verantwortung für die weitere Eskalation auf den Schultern von Donald Trump.",
+        "source": "Faz",
+        "quality_score": 2
+      },
+      {
+        "title": "No Kings: protests in the eye of the storm",
+        "link": "https://www.theverge.com/policy/687195/no-kings-trump-parade-protests",
+        "summary": "Während Donald Trump in Washington eine Militärparade abhielt, fanden in den USA und international etwa 2000 Proteste gegen Trump und Musk statt, die sich gegen die Kürzung staatlicher Leistungen und ein hartes Vorgehen der Einwanderungsbehörde richteten.",
+        "source": "Theverge",
+        "quality_score": 2
+      },
+      {
+        "title": "G7-Gipfel in Kanada: Sorge vor einem neuen Eklat",
+        "link": "https://www.tagesschau.de/ausland/amerika/g7-gipfel-trump-100.html",
+        "summary": "Der G7-Gipfel in Kananaskis beginnt heute unter dem Schatten des Ukraine-Krieges und US-Zöllen, mit der Sorge um mögliche Eskalationen durch Trump.  Die Journalistin Julia Kastein berichtet darüber.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "Messi’s Inter Miami held by Al Ahly at FIFA Club World Cup",
+        "link": "https://www.aljazeera.com/sports/2025/6/15/messis-inter-miami-held-by-al-ahly-at-fifa-club-world-cup?traffic_source=rss",
+        "summary": "Inter Miami mit Lionel Messi spielte im Eröffnungsspiel der FIFA Klub-Weltmeisterschaft gegen Al Ahly 0:0 unentschieden, wobei Messi in der zweiten Halbzeit für mehr Offensivpower sorgte.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "Biofuels policy has been a failure for the climate, new report claims",
+        "link": "https://arstechnica.com/science/2025/06/biofuels-policy-has-been-a-failure-for-the-climate-new-report-claims/",
+        "summary": "Ein neuer Bericht behauptet, die Biokraftstoffpolitik sei ein klimapolitisches Scheitern, da eine Ausweitung, wie unter Trump geplant, zu erhöhten Treibhausgasemissionen führen würde.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Macron visits Greenland in show of European unity and signal to Trump",
+        "link": "https://www.bbc.com/news/articles/c0j7x2xe54eo",
+        "summary": "Emmanuel Macron besucht Grönland, um mit den dortigen Verantwortlichen über arktische Sicherheit, Klimawandel und Rohstoffe zu sprechen und so europäische Einheit zu demonstrieren und ein Signal an die USA zu senden.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Firing at the Desperate: Palestinians Killed as They Gather to Receive Relief Supplies",
+        "link": "https://www.spiegel.de/international/world/firing-at-the-desperate-palestinians-killed-as-they-gather-to-receive-relief-supplies-a-2da80b69-cdb1-4c38-9c0c-decc59d90434#ref=rss",
+        "summary": "Bei der Verteilung von Hilfsgütern in Gaza wurden Anfang des Monats über 60 Palästinenser getötet und Hunderte verletzt; Augenzeugen beschuldigen das israelische Militär.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "What is Israel's Iron Dome? Here's how the missile defense system works",
+        "link": "https://www.cnbc.com/2025/06/13/israel-iron-dome.html",
+        "summary": "Israels Iron Dome ist ein Raketenabwehrsystem, das mittels Lenkflugkörpern kurzreichweitige Raketen und andere Bedrohungen in der Luft abfangen und so israelische Zivilisten schützen soll.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "'Tehran will burn:' Israel and Iran strike at each other in new wave of attacks",
+        "link": "https://www.cnbc.com/2025/06/13/trump-urges-iran-to-reach-nuclear-deal-before-there-is-nothing-left-.html",
+        "summary": "Israel und der Iran haben sich in einer neuen Eskalationsstufe gegenseitig angegriffen, wobei Israel einen Angriff auf das größte Gasfeld der Welt durchführte und damit seine Kampagne gegen den Erzrivalen ausweitete.",
+        "source": "Cnbc",
+        "quality_score": 1
+      },
+      {
+        "title": "2027 will Amazon \"Spaceballs 2\" ins Kino bringen",
+        "link": "https://www.heise.de/news/2027-will-Amazon-Spaceballs-2-ins-Kino-bringen-10446894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Im Jahr 2027 soll mit \"Spaceballs 2\" eine Fortsetzung der Kult-Parodie aus dem Jahr 1987 in die Kinos kommen, an der Mel Brooks und Teile des Original-Casts beteiligt sind.",
+        "source": "Heise",
+        "quality_score": 2
+      },
+      {
+        "title": "Trump’s FTC may impose merger condition that forbids advertising boycotts",
+        "link": "https://arstechnica.com/tech-policy/2025/06/trumps-ftc-targets-advertising-boycotts-in-potential-boost-for-elon-musks-x/",
+        "summary": "Die US-Handelsbehörde FTC unter Trump erwägt, bei der Genehmigung von Firmenfusionen eine Bedingung einzuführen, die politische Werbeboykotte verbietet.  Dies soll verhindern, dass Unternehmen aufgrund politischer Überzeugungen Werbung ablehnen.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Tanks, guns and face-painting",
+        "link": "https://www.theverge.com/politics/687301/trump-military-parade-army-birthday-washington-dc",
+        "summary": "Auf einem Armeefestival am National Mall wurde ein Kind beobachtet, wie es unter Anleitung eines Soldaten einen M119A3-Haubitze zielte, während seine Eltern zusahen – ein schockierendes Bild, das den Autor des Artikels besonders beeindruckte.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "How the Israel-Iran Conflict Could Spiral Into More Turmoil",
+        "link": "https://www.nytimes.com/2025/06/14/world/middleeast/israel-iran-attacks.html",
+        "summary": "Israels Vorgehen gegen den Iran und die damit verbundene Unterstützung durch Präsident Trump bergen das Risiko einer Eskalation des Konflikts und unvorhergesehener regionaler Turbulenzen, wie von anderen Weltführern gewarnt wurde.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "In a Mexico Border Town Famed for Crossings, ‘There Are No Migrants’",
+        "link": "https://www.nytimes.com/2025/06/14/world/americas/mexcio-us-border-migrants.html",
+        "summary": "Tijuana, früher bekannt als wichtiger Grenzübergang zwischen Mexiko und Südkalifornien, verzeichnet derzeit einen deutlichen Rückgang an Migranten in seinen Unterkünften und auf den Straßen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "The first trial of its kind: A Russian soldier takes the stand for an execution",
+        "link": "https://www.bbc.com/news/articles/cp8ylx534j0o",
+        "summary": "In der Ukraine findet der erste Prozess gegen einen russischen Soldaten, Dmitriy Kurashov, wegen einer Hinrichtung auf dem Schlachtfeld statt.",
+        "source": "Feeds",
+        "quality_score": 1
+      },
+      {
+        "title": "At least 100 people killed in gunmen attack in Nigeria: Rights group",
+        "link": "https://www.aljazeera.com/news/2025/6/14/at-least-100-people-killed-in-gunmen-attack-in-nigeria-rights-group?traffic_source=rss",
+        "summary": "Bei einem Angriff von bewaffneten Männern im nigerianischen Bundesstaat Benue wurden mindestens 100 Menschen getötet, Amnesty International fordert die Regierung zu mehr Maßnahmen auf.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Quo Vadis, Star Trek?: Nach 2027 könnte der große Reset kommen",
+        "link": "https://www.golem.de/news/quo-vadis-star-trek-nach-2027-koennte-der-grosse-reset-kommen-2506-197136.html",
+        "summary": "Nach aktuellen Informationen droht der Star-Trek-Franchise nach 2027 ein Produktionsstopp von mehreren Jahren,  mit Ausnahme möglicher Einzelfilme.",
+        "source": "Golem",
+        "quality_score": 2
+      },
+      {
+        "title": "Israel-Iran strikes: What are the worst-case scenarios?",
+        "link": "https://www.bbc.com/news/articles/c74n23y1x48o",
+        "summary": "Der BBC-Journalist James Landale analysiert mögliche Eskalationsszenarien eines israelisch-iranischen Konflikts und deren schwerwiegendste Folgen.",
+        "source": "Feeds",
+        "quality_score": 1
+      },
+      {
+        "title": "Israel and Ukraine Show How Drone Smuggling Is Powerful New War Technique",
+        "link": "https://www.nytimes.com/2025/06/14/world/middleeast/drones-smuggled-israel-iran-ukraine-russia.html",
+        "summary": "Der Artikel beschreibt den Einsatz von Drohnen als neue, effektive Kriegsführungstechnik, da deren Schmuggel sowohl äußere als auch innere Verteidigungsstrategien der Gegner erfordert.  Israel und die Ukraine dienen als Beispiele für diese Entwicklung.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "British Gujaratis Gather to Mourn Those Who Died in Air India Crash",
+        "link": "https://www.nytimes.com/2025/06/14/world/europe/india-plane-crash-memorial-london.html",
+        "summary": "Britische Gujaratis trauerten am Samstag gemeinsam um die Opfer des Flugzeugabsturzes in Gujarat, Indien, der die britisch-gujaratische Diaspora stark betroffen hat.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "UN-Sonderberichterstatter Ben Saul: „Menschen verschwinden ohne Verfahren“",
+        "link": "https://www.faz.net/aktuell/feuilleton/debatten/un-sonderberichterstatter-saul-es-verschwinden-menschen-110532066.html",
+        "summary": "Der UN-Sonderberichterstatter Ben Saul prangert in El Salvador das Verschwindenlassen von Menschen ohne Gerichtsverfahren an, die von der Regierung als Bandenmitglieder oder Terroristen eingestuft werden und in Einrichtungen wie dem „Terrorist Confinement Center“ in Tecoluca festgehalten werden.",
+        "source": "Faz",
+        "quality_score": 2
+      },
+      {
+        "title": "G7 summit: Who is attending and what’s on the agenda?",
+        "link": "https://www.aljazeera.com/news/2025/6/15/g7-summit-who-is-attending-and-whats-on-the-agenda?traffic_source=rss",
+        "summary": "Das diesjährige G7-Gipfeltreffen wird aufgrund der Rückkehr Donald Trumps als US-Präsidenten angespannt erwartet, da er 2018 den Gipfel vorzeitig verließ.  Die Teilnehmer und die Tagesordnung stehen im Fokus der Berichterstattung.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Trump versus the Universities: \"America Cannot Afford for Harvard to Fall\"",
+        "link": "https://www.spiegel.de/international/world/trump-versus-the-universities-america-cannot-afford-for-harvard-to-fall-a-dc30bb06-5d22-4d32-9744-6f3367dd4369#ref=rss",
+        "summary": "US-Präsident Trump greift amerikanische Universitäten, allen voran Harvard, massiv an.  Harvard wehrt sich gegen diese Offensive, die auch die Zukunft ausländischer Studierender gefährdet.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "'It's heavy on the heart': Israelis survey damage in city hit by Iranian missile",
+        "link": "https://www.bbc.com/news/articles/cx270vklvv7o",
+        "summary": "Ein iranischer Raketenangriff auf die israelische Stadt Rischon Lezion forderte zwei Todesopfer und verursachte erhebliche Gebäudeschäden.",
+        "source": "Feeds",
+        "quality_score": 1
+      },
+      {
+        "title": "Interview with Danish Prime Minister Frederiksen: \"If Trump Wants a Trade War, We Will Respond\"",
+        "link": "https://www.spiegel.de/international/europe/interview-with-danish-prime-minister-frederiksen-if-trump-wants-a-trade-war-we-will-respond-a-52b61828-fe28-4c8f-b7fd-0959330dec0a#ref=rss",
+        "summary": "Die dänische Premierministerin Mette Frederiksen drohte im Interview mit einem Gegenschlag im Falle eines von Trump angezettelten Handelskriegs und äußerte sich positiv über den neuen deutschen Bundeskanzler Merz.  Sie betonte dabei den Schutz Grönlands und Europas.",
+        "source": "Spiegel",
+        "quality_score": 1
+      },
+      {
+        "title": "Vance Luther Boelter sought in fatal shooting of Minnesota Rep. Melissa Hortman",
+        "link": "https://www.cnbc.com/2025/06/14/minnesota-democrats-legislator-shootings.html",
+        "summary": "Die demokratische Abgeordnete Melissa Hortman und ihr Mann Mark wurden in ihrem Haus außerhalb von Minneapolis erschossen; die Polizei sucht nach Vance Luther Boelter im Zusammenhang mit der Tat.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Trump gets his long-sought military parade as protests erupt nationwide",
+        "link": "https://www.cnbc.com/2025/06/14/trump-parade-washington.html",
+        "summary": "Während Präsident Trump in Washington D.C. eine lange geplante Militärparade abhielt, fanden landesweit, unter anderem unter dem Motto \"No Kings Day\",  Proteste gegen seine Politik statt.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "PSG vs Atletico Madrid: FIFA Club World Cup – teams, start, preview, stream",
+        "link": "https://www.aljazeera.com/sports/2025/6/15/psg-vs-atletico-madrid-fifa-club-world-cup-teams-start-preview-stream?traffic_source=rss",
+        "summary": "Im FIFA Club-Weltmeisterschaft treffen der Champions-League-Sieger Paris Saint-Germain und der spanische Topklub Atlético Madrid aufeinander.  Das Spiel ist ein Highlight des Turniers.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Israel Bombards Tehran, Setting Oil Facilities Ablaze",
+        "link": "https://www.nytimes.com/live/2025/06/14/world/israel-iran-news",
+        "summary": "Israel führte umfassende Angriffe auf iranische Ölanlagen und das Verteidigungsministerium durch, woraufhin der Iran mit Raketenangriffen auf Israel reagierte; es handelte sich um die bisher intensivsten direkten Auseinandersetzungen zwischen beiden Ländern.",
+        "source": "Nytimes",
+        "quality_score": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Answering the Nintendo Switch 2’s lingering accessibility questions",
+        "link": "https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis",
+        "summary": "Die Ankündigung der Nintendo Switch 2 überraschte mit einem scheinbar ganzheitlicheren Ansatz zur Barrierefreiheit, im Gegensatz zu Nintendos bisheriger eher zufälliger und reaktiver Herangehensweise an das Thema.  Dies deutet auf eine Verbesserung der Inklusion für Spieler mit Behinderungen hin.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Nintendo Switch 2 review: exactly good enough",
+        "link": "https://www.theverge.com/nintendo/686603/nintendo-switch-2-review",
+        "summary": "Die Nintendo Switch 2 ist ein willkommenes Upgrade der ursprünglichen Konsole, bietet aber keinen generativen Sprung oder eine neue Spielrichtung, sondern konzentriert sich auf verbesserte Funktionen bei Beibehaltung des bewährten Konzepts.",
+        "source": "Theverge",
+        "quality_score": 2
+      },
+      {
+        "title": "Onlinebank : DKB kündigt Kooperation mit ChatGPT-Entwickler OpenAI an",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-dkb-kuendigt-kooperation-mit-chatgpt-entwickler-openai-an/100126250.html",
+        "summary": "Die DKB kooperiert mit OpenAI, dem Entwickler von ChatGPT, um mittels Künstlicher Intelligenz einen neuen Sprachassistenten für ihre Kunden zu entwickeln und so KI stärker im Bankgeschäft zu integrieren.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Wenn KI das biologische Alter berechnet",
+        "link": "https://www.tagesschau.de/wissen/technologie/ki-berechnet-biologisches-alter-100.html",
+        "summary": "Forscher der Uniklinik Freiburg entwickelten ein KI-Modell, das anhand verschiedener Daten den biologischen Alterungszustand und die potenzielle Lebenserwartung einer Person berechnet.  Dies könnte zukünftig die personalisierte Gesundheitsvorsorge verbessern.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "ASIF: Apples neues Disk-Image-Format soll Frust verhindern",
+        "link": "https://www.golem.de/news/asif-apples-neues-disk-image-format-soll-frust-verhindern-2506-197138.html",
+        "summary": "Apples neues Disk-Image-Format soll Probleme mit virtuellen Maschinen auf Macs beheben, die Nutzern bisher viel Frust bereitet haben.  Das neue Format verspricht eine verbesserte Kompatibilität und Benutzerfreundlichkeit.",
+        "source": "Golem",
+        "quality_score": 1
+      },
+      {
+        "title": "Mini-PC Gmktec Nucbox M5 Plus im Test: Ryzen 7, 16 GB RAM & USB-C ab 233 Euro",
+        "link": "https://www.heise.de/bestenlisten/testbericht/mini-pc-gmktec-nucbox-m5-plus/chsr6xz?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Der Mini-PC Gmktec Nucbox M5 Plus mit Ryzen 7 5825U Prozessor und 16 GB RAM ist für 233 Euro erhältlich und wird in einem Test auf seine Leistungsfähigkeit geprüft.",
+        "source": "Heise",
+        "quality_score": 2
+      },
+      {
+        "title": "Nutzer von Meta AI veröffentlichen ihre Anfragen – offenbar unbewusst",
+        "link": "https://www.heise.de/news/Nutzer-von-Meta-AI-veroeffentlichen-ihre-Anfragen-offenbar-unbewusst-10446841.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Nutzer der Meta AI-App können ihre Suchanfragen (Prompts) ungewollt öffentlich teilen, da die Veröffentlichungsfunktion standardmäßig aktiviert sein kann und einige Beispiele darauf hindeuten, dass Nutzer die Implikationen nicht vollständig verstanden haben.",
+        "source": "Heise",
+        "quality_score": 2
+      },
+      {
+        "title": "Sony’s noise-canceling WH-1000XM6 are already on sale with a $30 gift card",
+        "link": "https://www.theverge.com/tech/686980/sony-wh-1000xm6-headphones-8bitdo-ultimate-2c-controller-deal-sale",
+        "summary": "Sonys Geräuschunterdrückungs-Kopfhörer WH-1000XM6 sind bereits im Angebot:  Bei Amazon erhält man sie für 448 US-Dollar inklusive einer 30 US-Dollar Geschenkkarte.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "These VA Tech scientists are building a better fog harp",
+        "link": "https://arstechnica.com/science/2025/06/these-va-tech-scientists-are-building-a-better-fog-harp/",
+        "summary": "Wissenschaftler der Virginia Tech entwickeln eine verbesserte Nebelharfe, die durch die Kombination vertikaler \"Saiten\" mit horizontalen Drähten Verstopfungen und Verklumpungen verhindert und die Effizienz steigert.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Top 10: Der beste Bluetooth-Lautsprecher im Test – schon ab 40 Euro gut",
+        "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-bluetooth-lautsprecher-im-test-schon-ab-40-euro-gut/9t2vjzx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Ein Testbericht präsentiert die zehn besten Bluetooth-Lautsprecher, die ab 40 Euro erhältlich sind und sich durch Kleinheit, Lautstärke, schickes Design und Robustheit auszeichnen.  Über 40 Modelle wurden hierfür getestet.",
+        "source": "Heise",
+        "quality_score": 3
+      }
+    ],
+    "Börse": [
+      {
+        "title": "Immobilien : Viele Anleger könnten profitieren: Schadenersatzklage gegen Uni Immo Wohnen ZBI",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-uni-immo-wohnen-zbi-wird-auf-schadenersatz-verklagt-01/100126308.html",
+        "summary": "Gegen das Management von Uni Immo Wohnen ZBI läuft eine Schadenersatzklage, von der viele Anleger profitieren könnten,  jedoch ist der Ausgang und der Zeitrahmen eines möglichen Musterverfahrens noch ungewiss.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Investmentbanking : Santanders stille Jagd nach Marktanteilen im Investmentbanking",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-santanders-stille-jagd-nach-marktanteilen-im-investmentbanking-1/100103925.html",
+        "summary": "Die spanische Großbank Santander verstärkt ihr Frankfurter Investmentbanking-Team und peilt dort insbesondere in drei, nicht näher genannten, Bereichen eine deutliche Marktanteilsausweitung an.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Platin auf den Spuren von Gold und Silber",
+        "link": "https://www.faz.net/aktuell/finanzen/technische-analyse-platin-auf-den-spuren-von-gold-und-silber-110532998.html",
+        "summary": "Der Platinpreis verzeichnet aktuell einen starken Anstieg und nähert sich damit den Preisen von Gold und Silber.  Die Gründe für diesen Aufschwung werden im Artikel jedoch nicht genannt.",
+        "source": "Faz",
+        "quality_score": 0
+      },
+      {
+        "title": "Oil surges at fastest pace in three years",
+        "link": "https://www.telegraph.co.uk/business/2025/06/13/oil-gold-price-ftse-100-markets-latest-news-israel-iran/?.tsrc=rss",
+        "summary": "Die Ölpreise stiegen am Freitag am stärksten seit drei Jahren, da Israels Angriff auf den Iran Befürchtungen vor einer weltweiten Verknappung des Angebots auslöste.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Middle East Conflict Undercuts European Bourses Midday",
+        "link": "https://finance.yahoo.com/news/middle-east-conflict-undercuts-european-114551281.html?.tsrc=rss",
+        "summary": "Die europäischen Börsenkurse sanken am Freitagmittag, da Teheran offenbar auf israelische Angriffe reagierte und dadurch die Spannungen im Nahen Osten zunahmen.  Dies belastete die Märkte.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "FTSE and US stocks slip, oil prices spike as Israel targets Iran in major escalation",
+        "link": "https://uk.finance.yahoo.com/news/ftse-100-live-stocks-israel-iran-oil-080133968.html?.tsrc=rss",
+        "summary": "Die israelischen Angriffe auf den Iran haben zu steigenden Ölpreisen und fallenden Aktienkursen an den US- und FTSE-Börsen geführt, da die Unsicherheit über eine weitere Eskalation der Lage im Nahen Osten zunimmt.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Märkte: „Das ist indiskutabel“ – Bafin droht Banken und Brokern nach Börsenchaos mit Konsequenzen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/maerkte-bafin-droht-banken-und-brokern-nach-stoerungen-mit-konsequenzen/100124508.html",
+        "summary": "Die Bafin droht Banken und Brokern nach dem Börsenchaos im April mit Konsequenzen, da viele Privatanleger nicht handeln konnten.  Die Aufsicht hinterfragt dabei grundlegende Annahmen des Finanzsystems im Hinblick auf ähnliche Vorkommnisse in den USA.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Stocks slide, oil jumps after Israel strikes Iran",
+        "link": "https://uk.finance.yahoo.com/news/stocks-slide-oil-jumps-israel-163109687.html?.tsrc=rss",
+        "summary": "Nach israelischen Angriffen auf den Iran fielen die Aktienkurse, während die Ölpreise stiegen; der FTSE 100 schloss 0,4% tiefer bei 8,850,63 Punkten.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Bitcoin becoming 'more central’ to portfolios as its volatility cools, Coatue's Philippe Laffont says",
+        "link": "https://www.cnbc.com/2025/06/14/why-bitcoin-is-becoming-more-central-to-portfolios-per-coatues-laffont.html",
+        "summary": "Coatue-Gründer Philippe Laffont sieht Bitcoin aufgrund abnehmender Volatilität als zunehmend wichtigeren Bestandteil von Portfolios und bedauert, nicht früher investiert zu haben.  Die sinkenden Einstiegskosten tragen dazu bei.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Bilanzcheck  : Warum Allianz-Chef Bäte 16 Milliarden Gewinn nicht reichen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-darum-reichen-dem-allianz-chef-16-milliarden-gewinn-nicht/100104154.html",
+        "summary": "Die Allianz, Europas größter Versicherer, meldete trotz globaler Unsicherheiten einen Gewinn von 16 Milliarden Euro, doch Vorstandschef Bäte sieht noch Verbesserungspotenzial und lässt Anleger auf weitere Maßnahmen gespannt warten.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Stocks mixed amid GDP miss and fresh trade worry",
+        "link": "https://uk.finance.yahoo.com/news/stocks-mixed-amid-gdp-miss-164254001.html?.tsrc=rss",
+        "summary": "Die britische Wirtschaft schrumpfte im April stärker als erwartet, vor allem aufgrund eines Einbruchs im Dienstleistungssektor, was zu gemischten Reaktionen an den Aktienmärkten führte.",
+        "source": "Feeds",
+        "quality_score": 0
+      }
+    ]
+  }
+}
