@@ -1,0 +1,406 @@
+{
+  "updateTime": "2025-06-21T06:06:55Z",
+  "newsTime": "morning",
+  "categories": {
+    "Deutschland": [
+      {
+        "title": "Bayern beat Boca to seal Club World Cup last 16 spot",
+        "link": "https://www.aljazeera.com/sports/2025/6/21/bayern-beat-boca-to-seal-club-world-cup-last-16-spot?traffic_source=rss",
+        "summary": "Bayern München besiegte Boca Juniors mit 2:1 und qualifizierte sich damit für das Achtelfinale der FIFA Klub-Weltmeisterschaft.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "Söder gegen Prien: Warum ein Verbot von Social Media für Kinder sinnvoll ist",
+        "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/soeder-gegen-prien-warum-ein-social-media-verbot-fuer-kinder-sinnvoll-ist-110548825.html",
+        "summary": "Bayerns Ministerpräsident Markus Söder lehnt ein Social-Media-Verbot für Kinder ab, im Gegensatz zu  anderen Stimmen wie der von  Bundesfamilienministerin Lisa Paus, die sich für eine Altersgrenze ausspricht.",
+        "source": "Faz",
+        "quality_score": 2
+      },
+      {
+        "title": "FC Bayern erreicht Achtelfinale der Klub-WM",
+        "link": "https://www.faz.net/aktuell/sport/fussball/sieg-gegen-die-boca-juniors-fc-bayern-erreicht-achtelfinale-der-klub-wm-110534469.html",
+        "summary": "Der FC Bayern München hat das Achtelfinale der Klub-Weltmeisterschaft erreicht.  Der Artikel zeigt ein Bild von Harry Kane im Spiel gegen Boca Juniors.",
+        "source": "Faz",
+        "quality_score": 1
+      }
+    ],
+    "Global&Europa": [
+      {
+        "title": "Israeli military kills 23 Palestinians near aid site in Gaza, witnesses and medics say",
+        "link": "https://www.bbc.com/news/articles/cd0vgerp402o",
+        "summary": "Bei einem israelischen Militäreinsatz in der Nähe einer Hilfsorganisation in Gaza wurden nach Angaben von Augenzeugen und Sanitätern 23 Palästinenser getötet; das Hamas-Gesundheitsministerium spricht seit Ende Mai von über 400 auf diese Weise getöteten Palästinensern.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Sonnenfalten: Hält Sonnencreme unsere Haut jung?",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/sonnencreme-falten-100.html",
+        "summary": "Sonnenstrahlung ist ein Hauptfaktor für Hautkrebs und vorzeitige Hautalterung.  Sonnencreme kann helfen, diesen schädlichen Auswirkungen entgegenzuwirken.",
+        "source": "Tagesschau",
+        "quality_score": 4
+      },
+      {
+        "title": "Man’s health crashes after getting donated kidney—it was riddled with worms",
+        "link": "https://arstechnica.com/health/2025/06/mans-health-crashes-after-getting-donated-kidney-it-was-riddled-with-worms/",
+        "summary": "Ein Mann erlitt einen schweren gesundheitlichen Zusammenbruch, nachdem er eine mit Würmern befallene Spenderniere erhalten hatte; dieser seltene Fall führte zu Anpassungen der Organscreening-Protokolle.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "BTS Is Back Together. Does It Still Rule K-Pop?",
+        "link": "https://www.nytimes.com/2025/06/21/world/asia/bts-kpop.html",
+        "summary": "Die südkoreanische Boyband BTS ist nach dem Ende der Militärdienstzeiten aller Mitglieder wieder vereint und steht nun vor der Herausforderung, ihren früheren Erfolg im K-Pop wiederzuerlangen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Europe Attempts to Provide an Off-Ramp to Iran in Geneva Talks",
+        "link": "https://www.nytimes.com/2025/06/20/world/europe/iran-foreign-minister-war-talks-europe-nuclear.html",
+        "summary": "In Genf bemühten sich die Außenminister Großbritanniens, Frankreichs und Deutschlands in einem letzten Versuch, eine Eskalation des israelisch-iranischen Konflikts zu verhindern, um eine Deeskalationsmöglichkeit für den Iran zu schaffen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "A shark scientist reflects on Jaws at 50",
+        "link": "https://arstechnica.com/science/2025/06/a-shark-scientist-reflects-on-jaws-at-50/",
+        "summary": "Anlässlich des 50. Jahrestages von \"Der weiße Hai\" diskutiert der Meeresbiologe David Shiffman mit Ars Technica das positive und negative Erbe des Films auf das öffentliche Bild von Haien.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Trump's Homemade Tourism Crisis: International Travelers Are Growing Skeptical of the U.S.",
+        "link": "https://www.spiegel.de/international/business/trumps-homemade-tourism-crisis-international-travelers-are-growing-skeptical-of-the-u-s-a-bae271e2-69e9-40a4-bba9-57e656b50138#ref=rss",
+        "summary": "Die USA verzeichnen seit Beginn von Donald Trumps zweiter Amtszeit einen Rückgang internationaler Touristen, insbesondere aus Deutschland, was für viele US-Regionen zu wirtschaftlichen Problemen führt.  Der sinkende Tourismus wird als Folge der politischen Entwicklungen unter Trump gesehen.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "28 Years Later is a bleak fever dream with rage pumping through its veins",
+        "link": "https://www.theverge.com/movie-reviews/689645/28-years-later-review",
+        "summary": "\"28 Days Later\" (28 Jahre später) wird als ein düsterer, rasender Film beschrieben, der trotz seiner nicht einzigartigen Zombie-Darstellung die modernen Zombiefilme maßgeblich beeinflusst hat und durch die innovative Kameraführung von Danny Boyle besticht.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "John Bolton on What Trump Might Do in Iran: \"For Trump, It's Now a Matter of Saving Face\"",
+        "link": "https://www.spiegel.de/international/world/john-bolton-on-what-trump-might-do-in-iran-for-trump-its-now-a-matter-of-saving-face-a-4c26dd51-5a78-4a69-ba25-b37ed0be4239#ref=rss",
+        "summary": "John Bolton, ehemaliger Sicherheitsberater Trumps, glaubt, dass ein möglicher US-Beitritt zu einem israelischen Krieg gegen den Iran für Trump vor allem eine Frage der Gesichtswahrung ist.  Bolton spekuliert über ein mögliches Ende des iranischen Regimes.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "WhatsApp Head Will Cathcart Talks about the Introduction of Ads to the Messenger Service",
+        "link": "https://www.spiegel.de/international/business/we-dont-want-to-bother-you-whatsapp-head-will-cathcart-talks-about-the-introduction-of-ads-to-the-messenger-service-a-c6173a99-1fa8-4555-a4ef-97295a87cd2b#ref=rss",
+        "summary": "WhatsApp plant entgegen früherer Zusagen die Einführung von Werbung, jedoch ausschließlich außerhalb der privaten Chats, wie WhatsApp-Chef Will Cathcart gegenüber dem SPIEGEL bestätigte.",
+        "source": "Spiegel",
+        "quality_score": 1
+      },
+      {
+        "title": "US-Gericht ordnet Freilassung von pro-palästinensischem Aktivisten an",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-gericht-freilassung-khalil-100.html",
+        "summary": "Ein US-Gericht ordnete die Freilassung des pro-palästinensischen Aktivisten Mahmoud Khalil an, der trotz gültiger Green Card abgeschoben werden sollte und dessen Festnahme im März international für Aufsehen sorgte.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "Trump says US intelligence ‘wrong’ about Iran not building nuclear bomb",
+        "link": "https://www.aljazeera.com/news/2025/6/20/trump-says-us-intelligence-wrong-about-iran-not-building-nuclear-bomb?traffic_source=rss",
+        "summary": "US-Präsident Trump widerspricht erneut den US-Geheimdiensten und behauptet, Iran baue Atomwaffen.  Er bekräftigt seine Behauptung, obwohl die Geheimdienste dies dementieren.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "“Teacher Li”: Catching Up with the Most Effective Chinese Regime Opponent",
+        "link": "https://www.spiegel.de/international/world/teacher-li-catching-up-with-the-most-effective-chinese-regime-opponent-a-1f4c11bc-4ba8-4f07-862d-c5705af3e1ab#ref=rss",
+        "summary": "Der chinesische Kunststudent Li Ying, der in Italien lebte, wurde durch die Verbreitung von Informationen über Proteste in China zur bekanntesten Quelle für unzensierte Nachrichten aus dem Land.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "Jihadists on 200 motorbikes storm Niger army base",
+        "link": "https://www.bbc.com/news/articles/cm20m07kdy3o",
+        "summary": "Islamisten griffen auf mindestens 200 Motorrädern eine nigerianische Militärbasis an und töteten dabei mindestens 34 Soldaten.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "How South Korea Became a Cultural Powerhouse",
+        "link": "https://www.nytimes.com/2025/06/21/world/asia/south-korea-kpop-culture.html",
+        "summary": "Südkorea erlebt einen anhaltenden kulturellen Höhenflug, getrieben von Erfolgen wie der bevorstehenden BTS-Reunion, der zweiten Staffel von „Squid Game“ und preisgekrönten Broadway-Produktionen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Bank of England tracking ‘deeply worrying’ conflict in Middle East",
+        "link": "https://uk.finance.yahoo.com/news/bank-england-tracking-deeply-worrying-150020204.html?.tsrc=rss",
+        "summary": "Die Bank of England zeigt sich angesichts des sich verschärfenden Nahostkonflikts \"zutiefst besorgt\" und hat die Leitzinsen daher unverändert gelassen.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Firing at the Desperate: Palestinians Killed as They Gather to Receive Relief Supplies",
+        "link": "https://www.spiegel.de/international/world/firing-at-the-desperate-palestinians-killed-as-they-gather-to-receive-relief-supplies-a-2da80b69-cdb1-4c38-9c0c-decc59d90434#ref=rss",
+        "summary": "Bei der Verteilung von Hilfsgütern in Gaza wurden Anfang des Monats über 60 Palästinenser getötet und Hunderte verletzt, wobei Augenzeugen schwere Vorwürfe gegen das israelische Militär erheben.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "Putin pocht bei Wirtschaftsforum auf Gebietsansprüche in Ukraine",
+        "link": "https://www.tagesschau.de/ausland/asien/putin-ukraine-rede-100.html",
+        "summary": "Beim St. Petersburger Wirtschaftsforum wiederholte Putin Russlands Gebietsansprüche in der Ukraine und plädierte gleichzeitig für eine diplomatische Lösung des Konflikts zwischen Israel und dem Iran.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "Israel-Iran-Krieg: Das Zeltlager unter Tel Aviv",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-luftschutzkeller-100.html",
+        "summary": "Angesichts der Bedrohung durch iranische Angriffe haben Dutzende Familien in Tel Aviv ein provisorisches Zeltlager in einer Tiefgarage eingerichtet, um Schutz und Gemeinschaft zu finden.  Das improvisierte Untergrundlager wächst stetig.",
+        "source": "Tagesschau",
+        "quality_score": 4
+      },
+      {
+        "title": "MAGA is split over Israel and Iran. Which way will Trump go?",
+        "link": "https://www.aljazeera.com/video/the-take-2/2025/6/20/aje-onl-usa_iranmagadivide_av_v2-200625?traffic_source=rss",
+        "summary": "Die Unterstützung für Donald Trump innerhalb der MAGA-Bewegung ist aufgrund gegensätzlicher Positionen zu Israel und Iran gespalten, wobei ein möglicher US-Angriff auf Iran Trumps Wählerschaft gefährden könnte.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "UK Heat Wave Leaves Britons Looking for Ways to Stay Cool",
+        "link": "https://www.nytimes.com/2025/06/21/world/europe/uk-heat-wave-britain.html",
+        "summary": "Die anhaltende Hitzewelle in Großbritannien führt dazu, dass viele Briten nach Möglichkeiten suchen, sich abzukühlen, wobei die Anschaffung von Klimaanlagen immer beliebter wird.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Die Lage in Nahost: Israel und Iran greifen sich abermals gegenseitig an",
+        "link": "https://www.faz.net/aktuell/politik/ausland/die-lage-in-nahost-israel-und-iran-greifen-sich-abermals-gegenseitig-an-110549783.html",
+        "summary": "Israel und der Iran haben sich erneut gegenseitig angegriffen, was die Spannungen im Nahen Osten weiter verschärft.  Weitere Details zum Angriff fehlen im gegebenen Textausschnitt.",
+        "source": "Faz",
+        "quality_score": 1
+      },
+      {
+        "title": "Global stocks fall, oil futures rise, on a report U.S. may soon strike Iran",
+        "link": "https://www.marketwatch.com/story/global-stocks-fall-oil-futures-rise-on-a-report-u-s-may-soon-strike-iran-234f474e?.tsrc=rss",
+        "summary": "Angesichts von Berichten über einen möglichen US-Militärschlag gegen den Iran am Wochenende fielen die Aktienkurse in Asien und Europa, während die Ölpreise stiegen.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Panama declares emergency over banana region unrest",
+        "link": "https://www.bbc.com/news/articles/cql0r430qglo",
+        "summary": "Aufgrund von Massenplünderungen verhängte Panama in der Provinz Bocas del Toro für fünf Tage den Notstand und setzte die verfassungsmäßigen Rechte außer Kraft.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "US court allows Trump to keep control of National Guard in LA",
+        "link": "https://www.bbc.com/news/articles/c1e07nd7x17o",
+        "summary": "Ein US-Gericht erlaubt Donald Trump, trotz Protesten von Los Angeles' Stadtverwaltung und dem kalifornischen Gouverneur, weiterhin die Nationalgarde in Los Angeles zu kontrollieren, die er aufgrund von Protesten dorthin entsandt hatte.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Tesla inks first deal to build China's largest grid-scale battery power plant",
+        "link": "https://www.cnbc.com/2025/06/20/tesla-agrees-to-build-chinas-largest-grid-scale-battery-power-plant.html",
+        "summary": "Tesla hat seinen ersten Vertrag zum Bau des größten Batteriespeichers Chinas für das Stromnetz abgeschlossen, wie das Unternehmen auf Weibo bekannt gab.  Das Projekt wird nach seiner Fertigstellung die größte Anlage dieser Art im Land sein.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Souveränität: EU-Kommission liebäugelt mit Ersatz von Microsofts Cloud Azure",
+        "link": "https://www.heise.de/news/Souveraenitaet-EU-Kommission-liebaeugelt-mit-Ersatz-von-Microsofts-Cloud-Azure-10454808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Die EU-Kommission plant, ihre Abhängigkeit von Microsofts Cloud-Dienst Azure zu verringern und sondiert hierfür Alternativen, unter anderem mit dem französischen Anbieter OVHcloud, um ihre digitale Souveränität zu stärken.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Iran rules out new nuclear talks until attacks stop",
+        "link": "https://www.bbc.com/news/articles/ckg505kl3zpo",
+        "summary": "Der Iran lehnt neue Atomgespräche ab, solange Israel Angriffe auf iranische Raketeninfrastruktur fortsetzt.  Israel hat kürzlich neue Angriffe auf iranische Einrichtungen angekündigt.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Niger to nationalise uranium mine operated by French state-affiliated firm",
+        "link": "https://www.aljazeera.com/news/2025/6/20/niger-nationalises-uranium-mine-as-spat-with-french-nuclear-giant-worsens?traffic_source=rss",
+        "summary": "Niger hat die von dem französischen Staatsunternehmen Orano betriebene Uranmine Somair verstaatlicht, ein Schritt, der im Kontext der Abkehr Nigers von Frankreich und Annäherung an Russland steht.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Here are the best robot vacuum deals available right now",
+        "link": "https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale",
+        "summary": "Der Artikel präsentiert aktuelle Angebote für Roboterstaubsauger, die die Hausarbeit automatisieren und somit eine erschwingliche Möglichkeit bieten, Aufgaben zu delegieren.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Noch mehr Warndialoge: macOS 26 petzt Apps, die im Hintergrund laufen",
+        "link": "https://www.heise.de/news/Noch-mehr-Warndialoge-macOS-26-petzt-Apps-die-im-Hintergrund-laufen-10454812.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "macOS Ventura 26 zeigt Nutzern verstärkt Warndialoge an, um sie über den Hintergrundbetrieb von Anwendungen zu informieren und so mehr Transparenz zu schaffen.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Windows: c't-Tools sichern Daten und suchen Viren | c’t uplink",
+        "link": "https://www.heise.de/news/Windows-c-t-Tools-sichern-Daten-und-suchen-Viren-c-t-uplink-10452781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Die c't-Tools WIMage und Desinfec't, vorgestellt im c't uplink, ermöglichen die Sicherung von Windows-Installationen zur Wiederherstellung auf anderer Hardware und unterstützen bei der Virenbeseitigung.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "MIT student prints AI polymer masks to restore paintings in hours",
+        "link": "https://arstechnica.com/ai/2025/06/mit-student-prints-ai-polymer-masks-to-restore-paintings-in-hours/",
+        "summary": "Ein MIT-Student entwickelte mittels KI gedruckte Polymermasken, die digitale Restaurierungen von beschädigten Kunstwerken in wenigen Stunden ermöglichen und als abnehmbare, transparente Folien direkt aufgetragen werden.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Top 10: Der beste Mini-PC mit Windows 11 im Test – dank AMD Ryzen sogar Gaming",
+        "link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Ein Testbericht präsentiert die zehn besten Mini-PCs mit Windows 11, die je nach Modell auch für Gaming geeignet sind und sich durch Kompaktheit und Energieeffizienz auszeichnen.  Die Auswahl basiert auf 80 getesteten Geräten über verschiedene Preisklassen.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Microsoft lays out its path to useful quantum computing",
+        "link": "https://arstechnica.com/science/2025/06/microsoft-lays-out-its-path-to-useful-quantum-computing/",
+        "summary": "Microsoft beschreibt seinen Weg zu nutzbarem Quantencomputing, der die Entwicklung fehlerkorrigierender Verfahren umfasst, die mit unterschiedlicher Hardware funktionieren.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic",
+        "link": "https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/",
+        "summary": "Eine Rekord-DDoS-Attacke überflutete eine Website mit einem Datenstrom von 7,3 Terabit pro Sekunde – das entspricht dem Datenvolumen von 9300 HD-Filmen in nur 45 Sekunden.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Onlinebank : DKB kündigt Kooperation mit ChatGPT-Entwickler OpenAI an",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-dkb-kuendigt-kooperation-mit-chatgpt-entwickler-openai-an/100126250.html",
+        "summary": "Die DKB kooperiert mit OpenAI, dem Entwickler von ChatGPT, um mittels Künstlicher Intelligenz einen neuen Sprachassistenten für ihre Kunden zu entwickeln und so die KI-Integration im Bankgeschäft auszubauen.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence",
+        "link": "https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence",
+        "summary": "Meta verhandelt Berichten zufolge über den Kauf mehrerer vielversprechender KI-Startups, darunter Safe Superintelligence, Thinking Machines und Perplexity.  Mark Zuckerberg zeigt damit ein starkes Interesse an der Konsolidierung des KI-Marktes.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Apple’s tiny M4 Mac Mini has dropped to its lowest price yet",
+        "link": "https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale",
+        "summary": "Der Apple Mac Mini mit M4-Chip, 16GB RAM und 512GB Speicher ist auf Amazon und B&H Photo auf seinen niedrigsten Preis gefallen und bietet somit eine günstige Einstiegsmöglichkeit in Apples Ökosystem.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Meta approached Perplexity before massive Scale AI deal",
+        "link": "https://www.cnbc.com/2025/06/20/meta-perplexity-scale-ai-deal.html",
+        "summary": "Bevor Meta 14,3 Milliarden Dollar in Scale AI investierte, versuchte das Unternehmen, das KI-Startup Perplexity zu übernehmen.  Dies zeigt Metas starkes Interesse an Künstlicher Intelligenz und deren Akquisitionen.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "The best Apple deals you can shop ahead of Amazon Prime Day",
+        "link": "https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals",
+        "summary": "Vor dem Amazon Prime Day bieten bereits einige Händler attraktive Angebote auf Apple-Produkte wie Kopfhörer, Laptops und Tablets an;  weitere Preissenkungen werden während des Prime Days erwartet.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Apple Silicon Games: Valve fixt kritische Bugs und Abstürze für Steam auf MacOS",
+        "link": "https://www.golem.de/news/apple-silicon-games-valve-fixt-kritische-bugs-und-abstuerze-fuer-steam-auf-macos-2506-197327.html",
+        "summary": "Valve behebt in einer Beta-Version von Steam für Apple Silicon kritische Fehler und Abstürze, um die Performance von Spielen auf macOS-Geräten mit Apple-Prozessoren zu verbessern.",
+        "source": "Golem",
+        "quality_score": 2
+      },
+      {
+        "title": "Meta CTO Bosworth says OpenAI countered lucrative job offers to AI startup's employees",
+        "link": "https://www.cnbc.com/2025/06/20/metas-andrew-bosworth-says-openai-countered-lucrative-job-offers.html",
+        "summary": "Metas CTO Andrew Bosworth berichtet, dass OpenAI lukrative Jobangebote an Mitarbeiter eines KI-Startups unterbreitet hat, um sie abzuwerben und somit mit Meta um die besten Talente zu konkurrieren.",
+        "source": "Cnbc",
+        "quality_score": 0
+      }
+    ],
+    "Börse": [
+      {
+        "title": "European Equities Close Mixed in Friday Trading; UK Monthly Retail Sales Fall in May",
+        "link": "https://finance.yahoo.com/news/european-equities-close-mixed-friday-160020205.html?.tsrc=rss",
+        "summary": "Die europäischen Aktienmärkte zeigten am Freitag ein gemischtes Bild; während der deutsche DAX um 1,17% stieg, fielen die britischen Einzelhandelsumsätze im Mai.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Chip stocks fall on report U.S. could terminate waivers for Taiwan Semi and others",
+        "link": "https://www.cnbc.com/2025/06/20/chip-stocks-china.html",
+        "summary": "Aktien von Chipherstellern sind gefallen, nachdem berichtet wurde, dass die USA möglicherweise Ausnahmeregelungen für Unternehmen wie Taiwan Semiconductor Manufacturing Company (TSMC) beenden könnten.  Dies geschieht vor dem Hintergrund angespannter Handelsbeziehungen zwischen den USA und China, wobei die Chip-Kontrollen ein zentraler Streitpunkt sind.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "JPMorgan Chase beefs up mobile app with bond trading as bank targets $1 trillion in assets",
+        "link": "https://www.cnbc.com/2025/06/20/jpmorgan-chase-online-investing-mobile-app-bond-trading.html",
+        "summary": "Die US-Großbank JPMorgan Chase erweitert ihre mobile App um den Anleihenhandel, um ihr Ziel von einer Billion Dollar an Vermögenswerten zu erreichen, obwohl sie im Online-Brokerage-Bereich bisher eher klein aufgestellt ist.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Investmentbanking : Santanders stille Jagd nach Marktanteilen im Investmentbanking",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-santanders-stille-jagd-nach-marktanteilen-im-investmentbanking-1/100103925.html",
+        "summary": "Die spanische Großbank Santander baut ihr Frankfurter Investmentbanking-Team deutlich aus und peilt insbesondere in drei, nicht näher genannten Bereichen,  ein starkes Wachstum an Marktanteilen an.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "VMWare: Broadcom liefert einfache Antwort auf Preiskritik",
+        "link": "https://www.golem.de/news/vmware-broadcom-liefert-einfache-antwort-auf-preiskritik-2506-197329.html",
+        "summary": "Broadcoms CTO empfiehlt Kunden, die sich über die hohen Preise der VMware Cloud Foundation beschweren, eine einfache Lösung, ohne Details zu nennen.  Der Artikel deutet auf Kritik an der Preisgestaltung von Broadcom nach der Übernahme von VMware hin.",
+        "source": "Golem",
+        "quality_score": 1
+      },
+      {
+        "title": "Bilanzcheck  : Warum Allianz-Chef Bäte 16 Milliarden Gewinn nicht reichen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-darum-reichen-dem-allianz-chef-16-milliarden-gewinn-nicht/100104154.html",
+        "summary": "Die Allianz, Europas größter Versicherer, vermeldete trotz globaler Unsicherheiten einen Gewinn von 16 Milliarden Euro, doch Vorstandschef Bäte sieht noch Verbesserungspotenzial und deutet weitere Maßnahmen für Anleger an.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "FTSE 100 higher and US markets mixed as Trump sets deadline on Iran decision",
+        "link": "https://uk.finance.yahoo.com/news/ftse-100-live-stock-markets-wall-street-iran-israel-trump-075208275.html?.tsrc=rss",
+        "summary": "Der FTSE 100 stieg, während die US-Märkte uneinheitlich reagierten, nachdem das Weiße Haus eine Entscheidung über ein mögliches US-Militäreingreifen im Israel-Iran-Konflikt innerhalb von zwei Wochen angekündigt hatte.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Immobilien : Viele Anleger könnten profitieren: Schadenersatzklage gegen Uni Immo Wohnen ZBI",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-uni-immo-wohnen-zbi-wird-auf-schadenersatz-verklagt-01/100126308.html",
+        "summary": "Anleger des umstrittenen Uni Immo Wohnen ZBI könnten Schadenersatz erhalten, da das Management verklagt wurde;  ein Musterverfahren ist jedoch noch nicht absehbar.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Stocks dip as Bank of England leaves interest rates unchanged",
+        "link": "https://uk.finance.yahoo.com/news/stocks-dip-bank-england-leaves-161553881.html?.tsrc=rss",
+        "summary": "Der FTSE 100 Index verlor 0,6% und schloss bei 8.791,80 Punkten, nachdem die Bank of England die Zinssätze unverändert ließ.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Märkte: „Das ist indiskutabel“ – Bafin droht Banken und Brokern nach Börsenchaos mit Konsequenzen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/maerkte-bafin-droht-banken-und-brokern-nach-stoerungen-mit-konsequenzen/100124508.html",
+        "summary": "Die Bafin droht Banken und Brokern nach dem Börsenchaos im April mit Konsequenzen, da viele Privatanleger nicht handeln konnten, und hinterfragt dabei grundlegende Annahmen des Finanzsystems.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      }
+    ]
+  }
+}
