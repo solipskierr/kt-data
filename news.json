@@ -1,0 +1,420 @@
+{
+  "updateTime": "2025-06-23T06:16:54Z",
+  "newsTime": "morning",
+  "categories": {
+    "Deutschland": [
+      {
+        "title": "TV-Kritik mit Pistorius an Miosga: „Sie geben Putin eine Plattform“",
+        "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-mit-pistorius-an-miosga-sie-geben-putin-eine-plattform-110552062.html",
+        "summary": "Verteidigungsminister Boris Pistorius kritisierte im Interview mit Caren Miosga deren Interviewführung und warf ihr vor, Wladimir Putin eine Plattform zu bieten.",
+        "source": "Faz",
+        "quality_score": 2
+      },
+      {
+        "title": "Arbeitgeberstudie - jetzt dabei sein!: Wie gut geht es euch in eurer Firma?",
+        "link": "https://www.golem.de/news/arbeitgeberstudie-jetzt-dabei-sein-wie-gut-geht-es-euch-in-eurer-firma-2506-197281.html",
+        "summary": "Eine laufende Arbeitgeberstudie sucht noch Teilnehmer, um die Zufriedenheit von Angestellten in ihren Firmen zu ermitteln; bereits Tausende haben mitgemacht.",
+        "source": "Golem",
+        "quality_score": 0
+      },
+      {
+        "title": "Wie amtliche Daten die Zeitarbeit in Misskredit bringen",
+        "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/zeitarbeit-eine-lohnluecke-die-keine-mehr-ist-110551119.html",
+        "summary": "Amtliche Daten belegen, dass die Zeitarbeit in Deutschland  häufig mit schlechten Arbeitsbedingungen und niedrigen Löhnen verbunden ist und somit in Misskredit gerät.  Dies wird durch Statistiken über prekäre Beschäftigungsverhältnisse verdeutlicht.",
+        "source": "Faz",
+        "quality_score": 1
+      },
+      {
+        "title": "Rechtsextreme Arbeitsteilung: Wie das Magazin „Compact“ agiert",
+        "link": "https://www.faz.net/aktuell/feuilleton/debatten/das-magazin-compact-vor-gericht-durch-taeuschung-an-die-macht-110551269.html",
+        "summary": "Der Artikel beschreibt die Arbeitsweise des rechtsextremen Magazins „Compact“ und beleuchtet die Rolle seines Chefredakteurs Jürgen Elsässer.  Ein Bild zeigt Elsässer mit seinem Anwalt vor Gericht.",
+        "source": "Faz",
+        "quality_score": 2
+      },
+      {
+        "title": "United Internet: Ionos findet Partner für KI-Gigafactory in der EU",
+        "link": "https://www.golem.de/news/united-internet-ionos-findet-partner-fuer-ki-gigafactory-in-der-eu-2506-197344.html",
+        "summary": "United Internet's Ionos wird mit Hochtief eine KI-Gigafactory in der EU bauen, die über 100.000 GPUs beherbergen soll;  SAP ist als Partner abgesprungen.",
+        "source": "Golem",
+        "quality_score": 1
+      },
+      {
+        "title": "Basketball-Triumph mit OKC: Hartenstein holt als zweiter Deutscher den Titel in der NBA",
+        "link": "https://www.faz.net/aktuell/sport/mehr-sport/basketball-hartenstein-holt-als-zweiter-deutscher-den-nba-titel-110552124.html",
+        "summary": "Daniel Theis sicherte sich als zweiter Deutscher nach Dirk Nowitzki einen NBA-Titel, indem er mit den Oklahoma City Thunder die G-League-Meisterschaft gewann.",
+        "source": "Faz",
+        "quality_score": 1
+      }
+    ],
+    "Global&Europa": [
+      {
+        "title": "John Bolton on What Trump Might Do in Iran: \"For Trump, It's Now a Matter of Saving Face\"",
+        "link": "https://www.spiegel.de/international/world/john-bolton-on-what-trump-might-do-in-iran-for-trump-its-now-a-matter-of-saving-face-a-4c26dd51-5a78-4a69-ba25-b37ed0be4239#ref=rss",
+        "summary": "John Bolton, ehemaliger Sicherheitsberater Trumps, glaubt, dass ein möglicher US-Beitritt zu einem israelischen Krieg gegen den Iran für Trump primär eine Frage des Gesichtswahrs ist.  Bolton spekuliert über ein mögliches Ende des iranischen Regimes.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "After U.S. Strikes on Iran, Prospects for Diplomacy Look Dim",
+        "link": "https://www.nytimes.com/2025/06/22/world/middleeast/us-strikes-iran-diplomacy.html",
+        "summary": "Nach US-Angriffen auf den Iran bezeichnete dessen Außenminister die Attacke als Vertrauensbruch mitten in laufenden Verhandlungen und kündigte nachhaltige Konsequenzen an, wodurch die Aussichten auf diplomatische Lösungen erheblich verschlechtert wurden.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "A shark scientist reflects on Jaws at 50",
+        "link": "https://arstechnica.com/science/2025/06/a-shark-scientist-reflects-on-jaws-at-50/",
+        "summary": "Anlässlich des 50. Jahrestags von \"Jaws\" diskutiert der Meeresbiologe David Shiffman mit Ars Technica das sowohl positive als auch negative Erbe des Films auf das öffentliche Verständnis von Haien.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "Inside the Race to Save a Family Farm From Canada’s Wildfires",
+        "link": "https://www.nytimes.com/2025/06/22/world/americas/canada-wildfires-british-columbia-farm.html",
+        "summary": "Während der schweren kanadischen Waldbrandsaison rettete eine Gruppe von Bauern in British Columbia durch selbstorganisierten Einsatz als improvisierte Feuerwehr den Hof eines Nachbarn vor den Flammen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "So groß ist Chinas Macht bei seltenen Erden",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/seltene-erden-china-abhaengigkeit-100.html",
+        "summary": "China kontrolliert mit der Produktion von zwei Dritteln aller weltweit benötigten seltenen Erden einen Großteil des Marktes, während der Westen bisher zögert, eigene Vorkommen zu erschließen.",
+        "source": "Tagesschau",
+        "quality_score": 2
+      },
+      {
+        "title": "Raumfahrt: Macron fordert europäische Offensive",
+        "link": "https://www.golem.de/news/raumfahrt-macron-fordert-europaeische-offensive-2506-197346.html",
+        "summary": "Emmanuel Macron fordert eine europäische Offensive im Raumfahrtsektor, um Europas Position im Bereich Satelliten und Telekommunikation zu stärken.",
+        "source": "Golem",
+        "quality_score": 1
+      },
+      {
+        "title": "Blattförmige Flügel: Chinesisches Militär entwickelt mückengroße Spionagedrohne",
+        "link": "https://www.golem.de/news/blattfoermige-fluegel-chinesisches-militaer-entwickelt-mueckengrosse-spionagedrohne-2506-197345.html",
+        "summary": "Das chinesische Militär hat eine mückengroße Spionage-Drohne mit blattförmigen Flügeln entwickelt, die aufgrund ihrer geringen Größe unbemerkt Aufklärung betreiben kann.",
+        "source": "Golem",
+        "quality_score": 1
+      },
+      {
+        "title": "Nuklearexperte im Interview: „Das iranische Atomwaffenprogramm ist Geschichte“",
+        "link": "https://www.faz.net/aktuell/politik/ausland/nuklearexperte-georg-steinhauser-im-f-a-z-interview-iranisches-atomwaffenprogramm-ist-geschichte-110552047.html",
+        "summary": "Ein Nuklearexperte erklärt im Interview, das iranische Atomwaffenprogramm sei beendet, gestützt auf ein Satellitenbild, das die Zerstörung der Anlage in Fordow zeigt.",
+        "source": "Faz",
+        "quality_score": 2
+      },
+      {
+        "title": "Will Iran Decide to Retaliate Against the U.S.?",
+        "link": "https://www.nytimes.com/2025/06/22/world/middleeast/iran-retaliate-us-strikes.html",
+        "summary": "Nach einem ersten Vergeltungsschlag gegen die USA steht der iranische Oberste Führer vor der Entscheidung, sich zurückzuziehen oder eine weitere Eskalation, möglicherweise bis hin zum Bau einer Atomwaffe, in Kauf zu nehmen.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "Trump’s Strike on Iran Cements Netanyahu’s Political Comeback",
+        "link": "https://www.nytimes.com/2025/06/22/world/middleeast/netanyahu-israel-trump-iran-strike.html",
+        "summary": "Der US-Angriff auf den Iran wird in Israel als Sieg für Netanjahu gewertet und könnte dessen politisches Comeback besiegeln, birgt aber gleichzeitig das Risiko einer weiteren Eskalation.",
+        "source": "Nytimes",
+        "quality_score": 0
+      },
+      {
+        "title": "History of US-Iran relations: From the 1953 regime change to Trump strikes",
+        "link": "https://www.aljazeera.com/news/2025/6/23/history-of-us-iran-relations-from-the-1953-regime-change-to-trump-strikes?traffic_source=rss",
+        "summary": "Die Beziehungen zwischen den USA und dem Iran sind seit der Islamischen Revolution 1979 konfliktbeladen, wobei die Geschichte durch den US-amerikanischen Regimewechsel von 1953 und spätere Aktionen wie die Angriffe unter Trump geprägt ist.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Firing at the Desperate: Palestinians Killed as They Gather to Receive Relief Supplies",
+        "link": "https://www.spiegel.de/international/world/firing-at-the-desperate-palestinians-killed-as-they-gather-to-receive-relief-supplies-a-2da80b69-cdb1-4c38-9c0c-decc59d90434#ref=rss",
+        "summary": "Bei der Verteilung von Hilfsgütern in Gaza wurden Anfang des Monats über 60 Palästinenser getötet und Hunderte verletzt, wobei Augenzeugen schwere Vorwürfe gegen das israelische Militär erheben.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "Trump's Homemade Tourism Crisis: International Travelers Are Growing Skeptical of the U.S.",
+        "link": "https://www.spiegel.de/international/business/trumps-homemade-tourism-crisis-international-travelers-are-growing-skeptical-of-the-u-s-a-bae271e2-69e9-40a4-bba9-57e656b50138#ref=rss",
+        "summary": "Die USA verzeichnen seit Beginn von Donald Trumps zweiter Amtszeit einen Rückgang internationaler Touristen, insbesondere aus Deutschland, was für viele Regionen wirtschaftliche Probleme verursacht.  Trumps Politik schreckt ausländische Reisende ab.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "Bank of England tracking ‘deeply worrying’ conflict in Middle East",
+        "link": "https://uk.finance.yahoo.com/news/bank-england-tracking-deeply-worrying-150020204.html?.tsrc=rss",
+        "summary": "Die Bank of England zeigt sich angesichts des sich zuspitzenden Nahostkonflikts tief besorgt und hat die Leitzinsen unverändert gelassen.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Global stocks fall, oil futures rise, on a report U.S. may soon strike Iran",
+        "link": "https://www.marketwatch.com/story/global-stocks-fall-oil-futures-rise-on-a-report-u-s-may-soon-strike-iran-234f474e?.tsrc=rss",
+        "summary": "Angesichts von Berichten über einen möglichen US-Militärschlag gegen den Iran am Wochenende fielen die Aktienkurse in Asien und Europa, während die Ölpreise stiegen.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Key players tangle at UNSC at ‘perilous turn’ of US-Israel-Iran conflict",
+        "link": "https://www.aljazeera.com/news/2025/6/22/key-players-tangle-at-unsc-at-perilous-turn-of-us-israel-iran-conflict?traffic_source=rss",
+        "summary": "Im UN-Sicherheitsrat eskaliert der Konflikt zwischen den USA, Israel und dem Iran, wobei Iran und seine Verbündeten US-Militäraktionen verurteilen, während die USA und Israel eine Verurteilung ablehnen.  Die Situation wird als gefährlich eingestuft.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "“Teacher Li”: Catching Up with the Most Effective Chinese Regime Opponent",
+        "link": "https://www.spiegel.de/international/world/teacher-li-catching-up-with-the-most-effective-chinese-regime-opponent-a-1f4c11bc-4ba8-4f07-862d-c5705af3e1ab#ref=rss",
+        "summary": "Der chinesische Kunststudent Li Ying, der in Italien lebte, wurde durch die Verbreitung von Nachrichten über Proteste in China zur wichtigsten Quelle für unzensierte Informationen aus dem Land.",
+        "source": "Spiegel",
+        "quality_score": 2
+      },
+      {
+        "title": "Iran says it reserves all options after ‘outrageous’ U.S. strikes, launches fresh attacks on Israel",
+        "link": "https://www.cnbc.com/2025/06/22/iran-says-it-reserves-all-options-after-us-strikes-on-nuclear-sites.html",
+        "summary": "Nach angeblichen US-Angriffen, die der Iran als „ungeheuerlich“ bezeichnet, hat er eine neue Angriffswelle mit Raketen und Drohnen gegen israelische Ziele gestartet und sich alle Optionen offen gehalten.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "US asks China to stop Iran from closing Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c056pyv723vo",
+        "summary": "Die USA fordern China auf, den Iran daran zu hindern, die Straße von Hormuz zu sperren, nachdem der iranische Parlament einen entsprechenden Plan gebilligt haben soll.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Real Madrid beat Pachuca at Club World Cup despite Asencio’s early red card",
+        "link": "https://www.aljazeera.com/sports/2025/6/22/real-madrid-beat-pachuca-at-club-world-cup-despite-asencios-early-red-card?traffic_source=rss",
+        "summary": "Real Madrid unter Trainer Xabi Alonso gewann das Spiel gegen Pachuca im Rahmen der Klub-Weltmeisterschaft, obwohl Federico Asensio frühzeitig vom Platz gestellt wurde.  Dies war Alonsos erster Sieg als Real-Trainer.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "OKC Thunder beat Indiana Pacers 103-91 in Game 7 to win NBA Finals",
+        "link": "https://www.aljazeera.com/sports/2025/6/23/okc-thunder-beat-indiana-pacers-103-91-in-game-7-to-win-nba-finals?traffic_source=rss",
+        "summary": "Die Oklahoma City Thunder gewannen das siebte und entscheidende Spiel der NBA-Finals gegen die Indiana Pacers mit 103:91, wobei Shai Gilgeous-Alexander mit 29 Punkten zum Finals-MVP gekürt wurde.",
+        "source": "Aljazeera",
+        "quality_score": 0
+      },
+      {
+        "title": "Kritik in den USA nach Trumps Iran-Entscheidung",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-nach-angriff-auf-den-iran-100.html",
+        "summary": "US-Präsident Trump hat einen Militärschlag gegen den Iran ohne Zustimmung des Kongresses angeordnet, was auf scharfe Kritik stößt;  zusätzliche Unklarheit stiftet ein kryptischer Post Trumps über Irans Zukunft.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "U.S. calls on China to prevent Iran from closing Strait of Hormuz and disrupting global oil flows",
+        "link": "https://www.cnbc.com/2025/06/22/us-calls-on-china-to-prevent-iran-from-closing-strait-of-hormuz.html",
+        "summary": "Die USA fordern China auf, Iran daran zu hindern, die Straße von Hormuz zu sperren und die globalen Ölströme zu unterbrechen, nachdem der iranische Außenminister nach US-Luftangriffen mit allen Mitteln zur Verteidigung der iranischen Souveränität gedroht hatte.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Four killed in Kyiv in new Russian aerial attack",
+        "link": "https://www.bbc.com/news/articles/c0k7vll16l3o",
+        "summary": "Bei einem neuen russischen Luftangriff auf Kiew wurden vier Menschen getötet, wobei Raketen und Drohnen Wohngebiete und Krankenhäuser trafen.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Dozens of soldiers seized in Colombian mountains",
+        "link": "https://www.bbc.com/news/articles/c4gdlrk1pzko",
+        "summary": "Im kolumbianischen Gebirge wurden Dutzende Soldaten von Zivilisten festgenommen, die nach Angaben des Militärs unter dem Druck von Farc-Dissidenten handelten.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Bride shot dead in attack on French wedding party",
+        "link": "https://www.bbc.com/news/articles/cn0q8pypxwxo",
+        "summary": "Bei einem Angriff auf eine Hochzeitsgesellschaft in der Nähe von Avignon wurde die Braut erschossen; der mutmaßliche Angreifer starb ebenfalls, offenbar in einem Schusswechsel.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Trump calls 'obliteration' an accurate description of damage to Iran's nuclear facilities",
+        "link": "https://www.cnbc.com/2025/06/23/donald-trump-calls-obliteration-an-accurate-description-of-damage-to-irans-nuclear-facilities.html",
+        "summary": "Donald Trump verteidigte die Bezeichnung \"Auslöschung\" für die Schäden an iranischen Nuklearanlagen und widersprach damit iranischen Darstellungen, die den Schaden herunterspielen.",
+        "source": "Cnbc",
+        "quality_score": 0
+      },
+      {
+        "title": "Why global markets are brushing off U.S. strikes on Iran",
+        "link": "https://www.cnbc.com/2025/06/23/why-global-markets-are-brushing-off-us-strikes-on-iran.html",
+        "summary": "Die globalen Märkte reagieren gelassen auf die US-Angriffe auf den Iran, da viele Experten von einem begrenzten Konflikt ausgehen.",
+        "source": "Cnbc",
+        "quality_score": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "How a data center company uses stranded renewable energy",
+        "link": "https://arstechnica.com/science/2025/06/how-a-data-center-company-uses-stranded-renewable-energy/",
+        "summary": "Unternehmen nutzen zunehmend günstig angebotene, ansonsten ungenutzte erneuerbare Energien, beispielsweise für den Betrieb von Rechenzentren.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "OpenAI and Jony Ive&#8217;s &#8216;io&#8217; brand has vanished, but their AI hardware deal remains",
+        "link": "https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware",
+        "summary": "OpenAI hat alle Hinweise auf die Hardware-Firma io von Jony Ive von seinen Online-Präsenzen entfernt, obwohl die geplante Zusammenarbeit und der damit verbundene Hardware-Deal im Rahmen der kürzlich angekündigten 6,5 Milliarden Dollar schweren Akquisition bestehen bleiben.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Psyche keeps its date with an asteroid, but now it’s running in backup mode",
+        "link": "https://arstechnica.com/space/2025/06/psyche-keeps-its-date-with-an-asteroid-but-now-its-running-in-backup-mode/",
+        "summary": "Die Raumsonde Psyche musste weniger als ein Viertel ihrer Missionsdauer nach auf eine Backup-Treibstoffleitung umgestellt werden, um ihren geplanten Rendezvous mit dem Asteroiden Psyche nicht zu gefährden.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "heise-Angebot: Advanced Angular Day 2025: Trends und Best Practices für Angular-Profis",
+        "link": "https://www.heise.de/news/Advanced-Angular-Day-2025-Trends-und-Best-Practices-fuer-Angular-Profis-10451068.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Der Advanced Angular Day 2025 bietet erfahrenen Angular-Entwicklern einen kompakten Online-Workshop mit Einblicken in aktuelle Trends, Best Practices und neue Features der Technologie.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Namensstreit: OpenAI nimmt Ankündigung der Kooperation mit Jony Ive aus dem Netz",
+        "link": "https://www.heise.de/news/Namensstreit-OpenAI-nimmt-Ankuendigung-der-Kooperation-mit-Jony-Ive-aus-dem-Netz-10455376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "OpenAI hat eine zuvor angekündigte Kooperation mit Jony Ives Startup io aufgrund eines Namensstreits mit dem Konkurrenten iYo zurückgenommen.  Die Ankündigung wurde von OpenAI aus dem Netz entfernt.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "Tesla beginnt Robotaxi-Dienst mit Einschränkungen",
+        "link": "https://www.heise.de/news/Tesla-beginnt-Robotaxi-Dienst-mit-Einschraenkungen-10455406.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "summary": "Tesla startet einen eingeschränkten Robotaxi-Dienst mit nur wenigen Fahrzeugen und menschlicher Aufsicht,  obwohl Elon Musk autonomes Fahren als Teslas Zukunft sieht.",
+        "source": "Heise",
+        "quality_score": 2
+      },
+      {
+        "title": "Samsung&#8217;s entry-level Galaxy Watch 7 has returned to its best price to date",
+        "link": "https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale",
+        "summary": "Die Samsung Galaxy Watch 7, ein Einsteigermodell, ist auf ihren bisher niedrigsten Preis zurückgekehrt.  Dies bietet eine günstige Gelegenheit, eine Smartwatch mit Fitness-Tracking und Benachrichtigungsfunktionen zu erwerben.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "New body size database for marine animals is a “library of life”",
+        "link": "https://arstechnica.com/science/2025/06/new-body-size-database-for-marine-animals-is-a-library-of-life/",
+        "summary": "Die neue Datenbank Marine Organizational Body Size (MOBS) bietet eine umfassende Sammlung von Körpergrößen mariner Tiere und schließt damit eine wichtige Lücke im Verständnis der Artenvielfalt der Ozeane.  Sie dient als wertvolle Ressource für die Meeresforschung.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "What happens when AI comes for our fonts?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/688637/typography-fonts-ai",
+        "summary": "Der Schriftdesign-Riese Monotype, Inhaber von Helvetica, Futura und Gill Sans, prognostiziert in seinem Bericht \"Re:Vision 2025\" die Auswirkungen von Künstlicher Intelligenz auf die Typografie und die Gestaltung von Schriftarten.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "Onlinebank : DKB kündigt Kooperation mit ChatGPT-Entwickler OpenAI an",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-dkb-kuendigt-kooperation-mit-chatgpt-entwickler-openai-an/100126250.html",
+        "summary": "Die DKB kooperiert mit OpenAI, dem Entwickler von ChatGPT, um mittels Künstlicher Intelligenz einen neuen Sprachassistenten für ihre Kunden zu entwickeln und so KI stärker im Bankgeschäft zu integrieren.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Weird-shaped notebooks make me want to write again",
+        "link": "https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite",
+        "summary": "Andru Marino, Videoproduzent bei The Verge, findet ungewöhnlich geformte Notizbücher inspirierend und nutzt sie, um seine Notizen zu organisieren.  Seine Vorliebe für diese Notizbücher hilft ihm, wieder mehr zu schreiben.",
+        "source": "Theverge",
+        "quality_score": 1
+      },
+      {
+        "title": "heise+ | Home Assistant: Haus smart steuern mit interaktivem Grundriss",
+        "link": "https://www.heise.de/ratgeber/Home-Assistant-Haus-smart-steuern-mit-interaktivem-Grundriss-10362948.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+        "summary": "Home Assistant ermöglicht die Erstellung interaktiver Grundrisse zur Steuerung des Smart Homes, die mittels KI sogar optisch verbessert werden können, beispielsweise im Retro-Pixelstil.",
+        "source": "Heise",
+        "quality_score": 3
+      },
+      {
+        "title": "WhatsApp Head Will Cathcart Talks about the Introduction of Ads to the Messenger Service",
+        "link": "https://www.spiegel.de/international/business/we-dont-want-to-bother-you-whatsapp-head-will-cathcart-talks-about-the-introduction-of-ads-to-the-messenger-service-a-c6173a99-1fa8-4555-a4ef-97295a87cd2b#ref=rss",
+        "summary": "WhatsApp plant entgegen früherer Zusicherungen die Einführung von Werbung, jedoch ausschließlich außerhalb der privaten Chatverläufe.  Dies bestätigte WhatsApp-Chef Will Cathcart gegenüber dem SPIEGEL.",
+        "source": "Spiegel",
+        "quality_score": 1
+      },
+      {
+        "title": "Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic",
+        "link": "https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/",
+        "summary": "Eine Rekord-DDoS-Attacke überflutete eine Website mit einem nie dagewesenen Datenverkehr von 7,3 Terabit pro Sekunde, was dem Datenvolumen von 9300 HD-Filmen in nur 45 Sekunden entspricht.",
+        "source": "Arstechnica",
+        "quality_score": 0
+      },
+      {
+        "title": "First celestial image unveiled from revolutionary telescope",
+        "link": "https://www.bbc.com/news/articles/cj3rmjjgx6xo",
+        "summary": "Das erste Bild des revolutionären Teleskops wurde veröffentlicht;  es soll Asteroiden und möglicherweise sogar den neunten Planeten unseres Sonnensystems entdecken.",
+        "source": "Feeds",
+        "quality_score": 0
+      }
+    ],
+    "Börse": [
+      {
+        "title": "Marktbericht: DAX tiefer erwartet, Ölpreise auf Fünf-Monats-Hoch",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-usa-angriff-iran-dax-oelpreise-gold-100.html",
+        "summary": "Angetrieben von den Spannungen nach dem US-Angriff auf den Iran erwarten Analysten einen fallenden DAX, während die Ölpreise auf ein Fünf-Monats-Hoch klettern.  Die Sorge um eine mögliche Blockade der Straße von Hormus durch den Iran belastet die Märkte.",
+        "source": "Tagesschau",
+        "quality_score": 3
+      },
+      {
+        "title": "Märkte: „Das ist indiskutabel“ – Bafin droht Banken und Brokern nach Börsenchaos mit Konsequenzen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/maerkte-bafin-droht-banken-und-brokern-nach-stoerungen-mit-konsequenzen/100124508.html",
+        "summary": "Aufgrund des Börsenchaos im April, bei dem viele Privatanleger nicht handeln konnten, droht die Bafin Banken und Brokern mit Konsequenzen und hinterfragt etablierte Strukturen des Finanzsystems.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Durant traded to Houston Rockets for Green, Brooks, picks: Report",
+        "link": "https://www.aljazeera.com/sports/2025/6/22/durant-traded-to-houston-rockets-for-green-brooks-picks-report?traffic_source=rss",
+        "summary": "Kevin Durant wurde von den Phoenix Suns zu den Houston Rockets transferiert; im Gegenzug erhalten die Suns  Robert Green, Jae'Sean Tate, und Draftpicks.",
+        "source": "Aljazeera",
+        "quality_score": 1
+      },
+      {
+        "title": "Bilanzcheck  : Warum Allianz-Chef Bäte 16 Milliarden Gewinn nicht reichen",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-darum-reichen-dem-allianz-chef-16-milliarden-gewinn-nicht/100104154.html",
+        "summary": "Die Allianz, Europas größter Versicherer, vermeldete trotz globaler Unsicherheiten einen Gewinn von 16 Milliarden Euro, doch Allianz-Chef Bäte sieht noch Verbesserungspotential und deutet weitere Maßnahmen für Anleger an.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "FTSE 100 higher and US markets mixed as Trump sets deadline on Iran decision",
+        "link": "https://uk.finance.yahoo.com/news/ftse-100-live-stock-markets-wall-street-iran-israel-trump-075208275.html?.tsrc=rss",
+        "summary": "Der FTSE 100 stieg, während die US-Märkte uneinheitlich reagierten, nachdem das Weiße Haus eine Entscheidung über ein mögliches US-Militärengagement im Israel-Iran-Konflikt innerhalb von zwei Wochen angekündigt hatte.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Stocks dip as Bank of England leaves interest rates unchanged",
+        "link": "https://uk.finance.yahoo.com/news/stocks-dip-bank-england-leaves-161553881.html?.tsrc=rss",
+        "summary": "Der FTSE 100 Aktienindex sank um 0,6 % auf 8.791,80 Punkte, nachdem die Bank of England die Zinssätze unverändert ließ.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "European Equities Close Mixed in Friday Trading; UK Monthly Retail Sales Fall in May",
+        "link": "https://finance.yahoo.com/news/european-equities-close-mixed-friday-160020205.html?.tsrc=rss",
+        "summary": "Die europäischen Aktienmärkte zeigten am Freitag ein gemischtes Bild; während der deutsche DAX um 1,17% stieg, fielen die britischen Einzelhandelsumsätze im Mai.",
+        "source": "Feeds",
+        "quality_score": 0
+      },
+      {
+        "title": "Investmentbanking : Santanders stille Jagd nach Marktanteilen im Investmentbanking",
+        "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-santanders-stille-jagd-nach-marktanteilen-im-investmentbanking-1/100103925.html",
+        "summary": "Die spanische Großbank Santander verstärkt ihr Frankfurter Investmentbanking-Team deutlich und peilt dort insbesondere in drei nicht näher genannten Bereichen  Marktanteilsgewinne an.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      },
+      {
+        "title": "Immobilien : Viele Anleger könnten profitieren: Schadenersatzklage gegen Uni Immo Wohnen ZBI",
+        "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-uni-immo-wohnen-zbi-wird-auf-schadenersatz-verklagt-01/100126308.html",
+        "summary": "Anleger des umstrittenen Uni Immo Wohnen ZBI können auf Schadenersatz hoffen, da das Management verklagt wurde;  ein mögliches Musterverfahren wird jedoch Zeit in Anspruch nehmen.",
+        "source": "Handelsblatt",
+        "quality_score": 3
+      }
+    ]
+  }
+}
